@@ -1,0 +1,13 @@
+//q: 0, 1, 
+2
+x 0
+rz pi/2 0
+rz pi/2 1
+h 0
+cx 0 1
+h 0
+h 1
+cx 0 1
+h 0
+measure 0
+measure 1

@@ -1,0 +1,493 @@
+//q0: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 
+140
+h 0
+h 1
+h 2
+h 3
+h 4
+h 5
+h 6
+h 7
+h 8
+h 9
+h 10
+h 11
+h 12
+h 13
+h 14
+h 15
+h 16
+h 17
+h 18
+h 19
+h 20
+h 21
+h 22
+h 23
+h 24
+h 25
+h 26
+h 27
+h 28
+h 29
+h 30
+h 31
+h 32
+h 33
+h 34
+h 35
+h 36
+h 37
+h 38
+h 39
+h 40
+h 41
+h 42
+h 43
+h 44
+h 45
+h 46
+h 47
+h 48
+h 49
+h 50
+h 51
+h 52
+h 53
+h 54
+h 55
+h 56
+h 57
+h 58
+h 59
+h 60
+h 61
+h 62
+h 63
+h 64
+h 65
+h 66
+h 67
+h 68
+h 69
+h 70
+h 71
+h 72
+h 73
+h 74
+h 75
+h 76
+h 77
+h 78
+h 79
+h 80
+h 81
+h 82
+h 83
+h 84
+h 85
+h 86
+h 87
+h 88
+h 89
+h 90
+h 91
+h 92
+h 93
+h 94
+h 95
+h 96
+h 97
+h 98
+h 99
+h 100
+h 101
+h 102
+h 103
+h 104
+h 105
+h 106
+h 107
+h 108
+h 109
+h 110
+h 111
+h 112
+h 113
+h 114
+h 115
+h 116
+h 117
+h 118
+h 119
+h 120
+h 121
+h 122
+h 123
+h 124
+h 125
+h 126
+h 127
+h 128
+h 129
+h 130
+h 131
+h 132
+h 133
+h 134
+h 135
+h 136
+h 137
+h 138
+x 139
+h 139
+cx 0 139
+cx 1 139
+cx 3 139
+cx 4 139
+cx 6 139
+cx 10 139
+cx 11 139
+cx 13 139
+cx 14 139
+cx 15 139
+cx 16 139
+cx 20 139
+cx 22 139
+cx 25 139
+cx 29 139
+cx 30 139
+cx 31 139
+cx 38 139
+cx 39 139
+cx 41 139
+cx 43 139
+cx 44 139
+cx 45 139
+cx 49 139
+cx 50 139
+cx 52 139
+cx 53 139
+cx 55 139
+cx 60 139
+cx 61 139
+cx 62 139
+cx 63 139
+cx 64 139
+cx 66 139
+cx 69 139
+cx 70 139
+cx 72 139
+cx 73 139
+cx 74 139
+cx 76 139
+cx 77 139
+cx 78 139
+cx 80 139
+cx 82 139
+cx 83 139
+cx 84 139
+cx 85 139
+cx 89 139
+cx 90 139
+cx 92 139
+cx 93 139
+cx 94 139
+cx 97 139
+cx 98 139
+cx 99 139
+cx 100 139
+cx 101 139
+cx 103 139
+cx 105 139
+cx 112 139
+cx 113 139
+cx 117 139
+cx 120 139
+cx 121 139
+cx 122 139
+cx 124 139
+cx 129 139
+cx 130 139
+cx 131 139
+cx 132 139
+cx 134 139
+cx 138 139
+h 0
+h 1
+h 2
+h 3
+h 4
+h 5
+h 6
+h 7
+h 8
+h 9
+h 10
+h 11
+h 12
+h 13
+h 14
+h 15
+h 16
+h 17
+h 18
+h 19
+h 20
+h 21
+h 22
+h 23
+h 24
+h 25
+h 26
+h 27
+h 28
+h 29
+h 30
+h 31
+h 32
+h 33
+h 34
+h 35
+h 36
+h 37
+h 38
+h 39
+h 40
+h 41
+h 42
+h 43
+h 44
+h 45
+h 46
+h 47
+h 48
+h 49
+h 50
+h 51
+h 52
+h 53
+h 54
+h 55
+h 56
+h 57
+h 58
+h 59
+h 60
+h 61
+h 62
+h 63
+h 64
+h 65
+h 66
+h 67
+h 68
+h 69
+h 70
+h 71
+h 72
+h 73
+h 74
+h 75
+h 76
+h 77
+h 78
+h 79
+h 80
+h 81
+h 82
+h 83
+h 84
+h 85
+h 86
+h 87
+h 88
+h 89
+h 90
+h 91
+h 92
+h 93
+h 94
+h 95
+h 96
+h 97
+h 98
+h 99
+h 100
+h 101
+h 102
+h 103
+h 104
+h 105
+h 106
+h 107
+h 108
+h 109
+h 110
+h 111
+h 112
+h 113
+h 114
+h 115
+h 116
+h 117
+h 118
+h 119
+h 120
+h 121
+h 122
+h 123
+h 124
+h 125
+h 126
+h 127
+h 128
+h 129
+h 130
+h 131
+h 132
+h 133
+h 134
+h 135
+h 136
+h 137
+h 138
+measure 0
+measure 1
+measure 2
+measure 3
+measure 4
+measure 5
+measure 6
+measure 7
+measure 8
+measure 9
+measure 10
+measure 11
+measure 12
+measure 13
+measure 14
+measure 15
+measure 16
+measure 17
+measure 18
+measure 19
+measure 20
+measure 21
+measure 22
+measure 23
+measure 24
+measure 25
+measure 26
+measure 27
+measure 28
+measure 29
+measure 30
+measure 31
+measure 32
+measure 33
+measure 34
+measure 35
+measure 36
+measure 37
+measure 38
+measure 39
+measure 40
+measure 41
+measure 42
+measure 43
+measure 44
+measure 45
+measure 46
+measure 47
+measure 48
+measure 49
+measure 50
+measure 51
+measure 52
+measure 53
+measure 54
+measure 55
+measure 56
+measure 57
+measure 58
+measure 59
+measure 60
+measure 61
+measure 62
+measure 63
+measure 64
+measure 65
+measure 66
+measure 67
+measure 68
+measure 69
+measure 70
+measure 71
+measure 72
+measure 73
+measure 74
+measure 75
+measure 76
+measure 77
+measure 78
+measure 79
+measure 80
+measure 81
+measure 82
+measure 83
+measure 84
+measure 85
+measure 86
+measure 87
+measure 88
+measure 89
+measure 90
+measure 91
+measure 92
+measure 93
+measure 94
+measure 95
+measure 96
+measure 97
+measure 98
+measure 99
+measure 100
+measure 101
+measure 102
+measure 103
+measure 104
+measure 105
+measure 106
+measure 107
+measure 108
+measure 109
+measure 110
+measure 111
+measure 112
+measure 113
+measure 114
+measure 115
+measure 116
+measure 117
+measure 118
+measure 119
+measure 120
+measure 121
+measure 122
+measure 123
+measure 124
+measure 125
+measure 126
+measure 127
+measure 128
+measure 129
+measure 130
+measure 131
+measure 132
+measure 133
+measure 134
+measure 135
+measure 136
+measure 137
+measure 138

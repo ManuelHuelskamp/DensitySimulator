@@ -1,0 +1,4867 @@
+//q: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 
+13
+rz pi/2 0
+rz -pi/2 0
+h 0
+rz -pi/2 0
+rz 3*pi/4 0
+x 1
+rz -pi/4 1
+cx 0 1
+rz 3*pi/4 1
+rz -pi/2 1
+h 1
+rz -pi/2 1
+rz -3*pi/4 1
+rz -pi/2 1
+h 1
+rz -pi/2 1
+cx 0 1
+rz -3*pi/4 0
+rz -pi/2 1
+h 1
+rz -pi/2 1
+rz -3*pi/4 1
+rz -pi/2 1
+h 1
+rz -pi/2 1
+rz -pi/2 1
+x 2
+rz -pi/4 2
+cx 0 2
+rz -pi/4 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -2.77674 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+cx 0 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz 1.93565 2
+cx 1 2
+rz -pi/4 2
+cx 0 2
+rz pi/4 2
+cx 1 2
+rz pi/4 1
+rz -pi/4 2
+cx 0 2
+cx 0 1
+rz pi/4 0
+rz -pi/4 1
+cx 0 1
+rz -pi/4 0
+rz 3*pi/4 1
+cx 0 1
+rz -3*pi/4 1
+rz -pi/2 1
+h 1
+rz -pi/2 1
+rz -3*pi/4 1
+rz -pi/2 1
+h 1
+rz -pi/2 1
+cx 0 1
+rz 0.954585 0
+rz -pi/2 1
+h 1
+rz -pi/2 1
+rz -3*pi/4 1
+rz -pi/2 1
+h 1
+rz -pi/2 1
+rz 3*pi/4 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz 3.06305 2
+cx 0 2
+rz 2.18701 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -2.61621 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+cx 0 2
+rz 2.53814 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -2.01615 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -2.85298 2
+cx 1 2
+rz -pi/4 2
+cx 0 2
+rz pi/4 2
+cx 1 2
+rz pi/4 1
+rz -pi/4 2
+cx 0 2
+cx 0 1
+rz pi/4 0
+rz -pi/4 1
+cx 0 1
+rz -pi/4 0
+rz pi/4 1
+cx 0 1
+rz -3*pi/4 1
+rz -pi/2 1
+h 1
+rz -pi/2 1
+rz -3*pi/4 1
+rz -pi/2 1
+h 1
+rz -pi/2 1
+cx 0 1
+rz -3*pi/4 0
+rz -pi/2 1
+h 1
+rz -pi/2 1
+rz -3*pi/4 1
+rz -pi/2 1
+h 1
+rz -pi/2 1
+rz pi/4 1
+cx 0 1
+rz -pi/4 1
+rz -pi/2 1
+h 1
+rz -pi/2 1
+rz -2.77674 1
+rz -pi/2 1
+h 1
+rz -pi/2 1
+cx 0 1
+rz pi/2 0
+rz -pi/2 1
+h 1
+rz -pi/2 1
+rz 1.93565 1
+rz 3*pi/4 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz pi/2 2
+cx 0 2
+rz pi/2 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -2.72105 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+cx 0 2
+rz pi/4 0
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -2.72105 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -3*pi/4 2
+cx 0 2
+rz 3*pi/4 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -3*pi/4 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+cx 0 2
+rz pi/2 0
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -3*pi/4 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -pi/2 2
+x 3
+rz pi/2 3
+cx 0 3
+rz pi/2 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -3*pi/4 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+cx 0 3
+rz pi/2 0
+rz -pi 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz 3*pi/4 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz pi/2 4
+cx 0 4
+rz pi/2 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+cx 0 4
+rz pi/2 0
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -pi/2 4
+cx 0 4
+rz pi/2 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+cx 0 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz 3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+cx 3 4
+rz -pi/4 4
+cx 0 4
+rz pi/4 4
+cx 3 4
+rz pi/4 3
+rz -pi/4 4
+cx 0 4
+cx 0 3
+rz pi/4 0
+rz 3*pi/4 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz 2.14356 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+cx 0 3
+rz pi/2 0
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz 2.14356 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -pi 3
+rz 3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -pi 4
+cx 0 4
+rz pi/2 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+cx 0 4
+rz -pi 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz 3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+cx 0 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz 2.14356 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -pi 4
+cx 0 4
+rz pi/2 0
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -2.14356 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -pi/2 4
+cx 0 4
+rz pi/2 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+cx 0 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz 3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+cx 3 4
+rz -pi/4 4
+cx 0 4
+rz pi/4 4
+cx 3 4
+rz pi/4 3
+rz -pi/4 4
+cx 0 4
+cx 0 3
+rz pi/4 0
+rz -pi/4 3
+cx 0 3
+rz pi/2 0
+rz pi/2 3
+cx 0 3
+rz pi/2 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -3*pi/4 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+cx 0 3
+rz -3*pi/4 0
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -3*pi/4 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz 3*pi/4 3
+cx 0 3
+rz -pi/4 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -2.77674 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+cx 0 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz 1.93565 3
+cx 2 3
+rz -pi/4 3
+cx 0 3
+rz pi/4 3
+cx 2 3
+rz pi/4 2
+rz -pi/4 3
+cx 0 3
+cx 0 2
+rz pi/4 0
+rz -pi/4 2
+cx 0 2
+rz -pi/4 0
+rz 3*pi/4 2
+cx 0 2
+rz -3*pi/4 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -3*pi/4 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+cx 0 2
+rz 0.954585 0
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -3*pi/4 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz 3*pi/4 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz 3.06305 3
+cx 0 3
+rz 2.18701 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -2.61621 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+cx 0 3
+rz 2.53814 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -2.01615 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -2.85298 3
+cx 2 3
+rz -pi/4 3
+cx 0 3
+rz pi/4 3
+cx 2 3
+rz pi/4 2
+rz -pi/4 3
+cx 0 3
+cx 0 2
+rz pi/4 0
+rz -pi/4 2
+cx 0 2
+rz -pi/4 0
+rz pi/4 2
+cx 0 2
+rz -3*pi/4 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -3*pi/4 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+cx 0 2
+rz -3*pi/4 0
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -3*pi/4 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz pi/4 2
+cx 0 2
+rz -pi/4 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -2.77674 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+cx 0 2
+rz pi/2 0
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz 1.93565 2
+rz 3*pi/4 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz pi/2 3
+cx 0 3
+rz pi/2 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -2.72105 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+cx 0 3
+rz pi/4 0
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -2.72105 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -3*pi/4 3
+cx 0 3
+rz 3*pi/4 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -3*pi/4 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+cx 0 3
+rz pi/2 0
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -3*pi/4 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -pi/2 3
+rz 3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -pi 4
+cx 0 4
+rz pi/2 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+cx 0 4
+rz pi/2 0
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -pi/2 4
+cx 0 4
+rz pi/2 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+cx 0 4
+rz -3*pi/4 0
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz 3*pi/4 4
+cx 0 4
+rz -pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -2.77674 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+cx 0 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz 1.93565 4
+cx 3 4
+rz -pi/4 4
+cx 0 4
+rz pi/4 4
+cx 3 4
+rz pi/4 3
+rz -pi/4 4
+cx 0 4
+cx 0 3
+rz pi/4 0
+rz -pi/4 3
+cx 0 3
+rz -pi/4 0
+rz 3*pi/4 3
+cx 0 3
+rz -3*pi/4 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -3*pi/4 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+cx 0 3
+rz 0.954585 0
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -3*pi/4 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz 3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz 3.06305 4
+cx 0 4
+rz 2.18701 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -2.61621 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+cx 0 4
+rz 2.53814 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -2.01615 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -2.85298 4
+cx 3 4
+rz -pi/4 4
+cx 0 4
+rz pi/4 4
+cx 3 4
+rz pi/4 3
+rz -pi/4 4
+cx 0 4
+cx 0 3
+rz pi/4 0
+rz -pi/4 3
+cx 0 3
+rz -pi/4 0
+rz pi/4 3
+cx 0 3
+rz -3*pi/4 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -3*pi/4 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+cx 0 3
+rz -3*pi/4 0
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -3*pi/4 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz pi/4 3
+cx 0 3
+rz -pi/4 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -2.77674 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+cx 0 3
+rz pi/2 0
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz 1.93565 3
+rz 3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz pi/2 4
+cx 0 4
+rz pi/2 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -2.72105 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+cx 0 4
+rz pi/4 0
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -2.72105 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -3*pi/4 4
+cx 0 4
+rz 3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+cx 0 4
+rz -3*pi/4 0
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -pi/2 4
+rz -pi/4 5
+cx 0 5
+rz -pi/4 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+rz -2.77674 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+cx 0 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+rz 1.93565 5
+cx 4 5
+rz -pi/4 5
+cx 0 5
+rz pi/4 5
+cx 4 5
+rz pi/4 4
+rz -pi/4 5
+cx 0 5
+cx 0 4
+rz pi/4 0
+rz -pi/4 4
+cx 0 4
+rz -pi/4 0
+rz 3*pi/4 4
+cx 0 4
+rz -3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+cx 0 4
+rz 0.954585 0
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz 3*pi/4 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+rz 3.06305 5
+cx 0 5
+rz 2.18701 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+rz -2.61621 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+cx 0 5
+rz 2.53814 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+rz -2.01615 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+rz -2.85298 5
+cx 4 5
+rz -pi/4 5
+cx 0 5
+rz pi/4 5
+cx 4 5
+rz pi/4 4
+rz -pi/4 5
+cx 0 5
+cx 0 4
+rz pi/4 0
+rz -pi/4 4
+cx 0 4
+rz -pi/4 0
+rz pi/4 4
+cx 0 4
+rz -3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+cx 0 4
+rz -3*pi/4 0
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz pi/4 4
+cx 0 4
+rz -pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -2.77674 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+cx 0 4
+rz pi/2 0
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz 1.93565 4
+rz 3*pi/4 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+rz pi/2 5
+cx 0 5
+rz pi/2 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+rz -2.72105 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+cx 0 5
+rz pi/2 0
+rz -pi/2 5
+h 5
+rz -pi/2 5
+rz -2.72105 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+cx 0 5
+rz pi/2 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+rz -3*pi/4 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+cx 0 5
+rz pi/2 0
+rz -pi 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+rz 3*pi/4 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+rz pi/2 6
+cx 0 6
+rz pi/2 6
+rz -pi/2 6
+h 6
+rz -pi/2 6
+rz -3*pi/4 6
+rz -pi/2 6
+h 6
+rz -pi/2 6
+cx 0 6
+rz pi/2 0
+rz -pi/2 6
+h 6
+rz -pi/2 6
+rz -3*pi/4 6
+rz -pi/2 6
+h 6
+rz -pi/2 6
+rz -pi/2 6
+cx 0 6
+rz pi/2 6
+rz -pi/2 6
+h 6
+rz -pi/2 6
+rz -3*pi/4 6
+rz -pi/2 6
+h 6
+rz -pi/2 6
+cx 0 6
+rz -pi/2 6
+h 6
+rz -pi/2 6
+rz 3*pi/4 6
+rz -pi/2 6
+h 6
+rz -pi/2 6
+cx 5 6
+rz -pi/4 6
+cx 0 6
+rz pi/4 6
+cx 5 6
+rz pi/4 5
+rz -pi/4 6
+cx 0 6
+cx 0 5
+rz pi/4 0
+rz 3*pi/4 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+rz -0.328124 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+cx 0 5
+rz pi/2 0
+rz -pi 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+rz 0.328124 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+rz 3*pi/4 6
+rz -pi/2 6
+h 6
+rz -pi/2 6
+rz -pi 6
+cx 0 6
+rz pi/2 6
+rz -pi/2 6
+h 6
+rz -pi/2 6
+rz -3*pi/4 6
+rz -pi/2 6
+h 6
+rz -pi/2 6
+cx 0 6
+rz -pi 6
+rz -pi/2 6
+h 6
+rz -pi/2 6
+rz 3*pi/4 6
+rz -pi/2 6
+h 6
+rz -pi/2 6
+cx 0 6
+rz -pi 6
+rz -pi/2 6
+h 6
+rz -pi/2 6
+rz 0.328124 6
+rz -pi/2 6
+h 6
+rz -pi/2 6
+cx 0 6
+rz pi/2 0
+rz -pi/2 6
+h 6
+rz -pi/2 6
+rz 0.328124 6
+rz -pi/2 6
+h 6
+rz -pi/2 6
+rz -pi/2 6
+cx 0 6
+rz pi/2 6
+rz -pi/2 6
+h 6
+rz -pi/2 6
+rz -3*pi/4 6
+rz -pi/2 6
+h 6
+rz -pi/2 6
+cx 0 6
+rz -pi/2 6
+h 6
+rz -pi/2 6
+rz 3*pi/4 6
+rz -pi/2 6
+h 6
+rz -pi/2 6
+cx 5 6
+rz -pi/4 6
+cx 0 6
+rz pi/4 6
+cx 5 6
+rz pi/4 5
+rz -pi/4 6
+cx 0 6
+cx 0 5
+rz pi/4 0
+rz -pi/4 5
+cx 0 5
+rz pi/2 0
+rz pi/2 5
+cx 0 5
+rz pi/2 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+rz -3*pi/4 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+cx 0 5
+rz pi/4 0
+rz -pi/2 5
+h 5
+rz -pi/2 5
+rz -3*pi/4 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+rz 3*pi/4 5
+cx 0 5
+rz 3*pi/4 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+rz -3*pi/4 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+cx 0 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+rz -3*pi/4 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+rz -pi/2 5
+cx 5 4
+rz -pi/4 4
+cx 0 4
+rz pi/4 4
+cx 5 4
+rz -pi/4 4
+cx 0 4
+rz 3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz 3.06305 4
+rz pi/4 5
+cx 0 5
+rz pi/4 0
+rz -pi/4 5
+cx 0 5
+rz 0.954585 0
+cx 0 4
+rz 2.18701 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -2.61621 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+cx 0 4
+rz -pi/4 0
+rz 2.53814 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -2.01615 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -2.85298 4
+rz 3*pi/4 5
+cx 0 5
+rz -3*pi/4 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+rz -3*pi/4 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+cx 0 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+rz -3*pi/4 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+cx 5 4
+rz -pi/4 4
+cx 0 4
+rz pi/4 4
+cx 5 4
+rz -pi/4 4
+cx 0 4
+rz 3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz pi/2 4
+rz pi/4 5
+cx 0 5
+rz pi/4 0
+rz -pi/4 5
+cx 0 5
+rz pi/2 0
+cx 0 4
+rz pi/2 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -2.72105 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+cx 0 4
+rz pi/4 0
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -2.72105 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -3*pi/4 4
+cx 0 4
+rz 3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+cx 0 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -pi/2 4
+cx 4 3
+rz -pi/4 3
+cx 0 3
+rz pi/4 3
+cx 4 3
+rz -pi/4 3
+cx 0 3
+rz 3*pi/4 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz 3.06305 3
+rz pi/4 4
+cx 0 4
+rz pi/4 0
+rz -pi/4 4
+cx 0 4
+rz 0.954585 0
+cx 0 3
+rz 2.18701 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -2.61621 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+cx 0 3
+rz -pi/4 0
+rz 2.53814 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -2.01615 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -2.85298 3
+rz 3*pi/4 4
+cx 0 4
+rz -3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+cx 0 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+cx 4 3
+rz -pi/4 3
+cx 0 3
+rz pi/4 3
+cx 4 3
+rz -pi/4 3
+cx 0 3
+rz 3*pi/4 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz pi/2 3
+rz pi/4 4
+cx 0 4
+rz pi/4 0
+rz -pi/4 4
+cx 0 4
+rz pi/2 0
+cx 0 3
+rz pi/2 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -2.72105 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+cx 0 3
+rz pi/4 0
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -2.72105 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -3*pi/4 3
+cx 0 3
+rz 3*pi/4 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -3*pi/4 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+cx 0 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -3*pi/4 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -pi/2 3
+cx 3 2
+rz -pi/4 2
+cx 0 2
+rz pi/4 2
+cx 3 2
+rz -pi/4 2
+cx 0 2
+rz 3*pi/4 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz 3.06305 2
+rz pi/4 3
+cx 0 3
+rz pi/4 0
+rz -pi/4 3
+cx 0 3
+rz 0.954585 0
+cx 0 2
+rz 2.18701 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -2.61621 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+cx 0 2
+rz -pi/4 0
+rz 2.53814 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -2.01615 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -2.85298 2
+rz 3*pi/4 3
+cx 0 3
+rz -3*pi/4 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -3*pi/4 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+cx 0 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -3*pi/4 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+cx 3 2
+rz -pi/4 2
+cx 0 2
+rz pi/4 2
+cx 3 2
+rz -pi/4 2
+cx 0 2
+rz 3*pi/4 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz pi/2 2
+rz pi/4 3
+cx 0 3
+rz pi/4 0
+rz -pi/4 3
+cx 0 3
+rz pi/2 0
+cx 0 2
+rz pi/2 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -2.72105 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+cx 0 2
+rz pi/4 0
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -2.72105 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -3*pi/4 2
+cx 0 2
+rz 3*pi/4 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -3*pi/4 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+cx 0 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -3*pi/4 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -pi/2 2
+cx 2 1
+rz -pi/4 1
+cx 0 1
+rz pi/4 1
+cx 2 1
+rz -pi/4 1
+cx 0 1
+rz 3*pi/4 1
+rz -pi/2 1
+h 1
+rz -pi/2 1
+rz 3.06305 1
+rz pi/4 2
+cx 0 2
+rz pi/4 0
+rz -pi/4 2
+cx 0 2
+rz 0.954585 0
+cx 0 1
+rz 2.18701 1
+rz -pi/2 1
+h 1
+rz -pi/2 1
+rz -2.61621 1
+rz -pi/2 1
+h 1
+rz -pi/2 1
+cx 0 1
+rz -pi/4 0
+rz 2.53814 1
+rz -pi/2 1
+h 1
+rz -pi/2 1
+rz -2.01615 1
+rz -pi/2 1
+h 1
+rz -pi/2 1
+rz -2.85298 1
+rz 3*pi/4 2
+cx 0 2
+rz -3*pi/4 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -3*pi/4 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+cx 0 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -3*pi/4 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+cx 2 1
+rz -pi/4 1
+cx 0 1
+rz pi/4 1
+cx 2 1
+rz -pi/4 1
+cx 0 1
+rz 3*pi/4 1
+rz -pi/2 1
+h 1
+rz -pi/2 1
+rz pi/2 1
+rz pi/4 2
+cx 0 2
+rz pi/4 0
+rz -pi/4 2
+cx 0 2
+rz pi/2 0
+cx 0 1
+rz pi/2 1
+rz -pi/2 1
+h 1
+rz -pi/2 1
+rz -2.72105 1
+rz -pi/2 1
+h 1
+rz -pi/2 1
+cx 0 1
+rz -pi/2 1
+h 1
+rz -pi/2 1
+rz -2.72105 1
+rz -pi/2 1
+h 1
+rz -pi/2 1
+rz -pi/2 1
+cx 0 1
+rz pi/4 0
+rz -pi/4 1
+cx 0 1
+rz 3*pi/4 1
+rz -pi/2 1
+h 1
+rz -pi/2 1
+rz -3*pi/4 1
+rz -pi/2 1
+h 1
+rz -pi/2 1
+cx 0 1
+rz -pi/4 0
+rz -pi/2 1
+h 1
+rz -pi/2 1
+rz -3*pi/4 1
+rz -pi/2 1
+h 1
+rz -pi/2 1
+rz -pi/2 1
+rz pi/4 2
+cx 0 2
+rz -3*pi/4 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -3*pi/4 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+cx 0 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -3*pi/4 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz pi/2 2
+cx 0 2
+rz -3*pi/4 0
+rz -pi/4 2
+cx 0 2
+rz -pi/4 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -2.77674 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+cx 0 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz 1.93565 2
+cx 1 2
+rz -pi/4 2
+cx 0 2
+rz pi/4 2
+cx 1 2
+rz pi/4 1
+rz -pi/4 2
+cx 0 2
+cx 0 1
+rz pi/4 0
+rz -pi/4 1
+cx 0 1
+rz -pi/4 0
+rz 3*pi/4 1
+cx 0 1
+rz -3*pi/4 1
+rz -pi/2 1
+h 1
+rz -pi/2 1
+rz -3*pi/4 1
+rz -pi/2 1
+h 1
+rz -pi/2 1
+cx 0 1
+rz 0.954585 0
+rz -pi/2 1
+h 1
+rz -pi/2 1
+rz -3*pi/4 1
+rz -pi/2 1
+h 1
+rz -pi/2 1
+rz 3*pi/4 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz 3.06305 2
+cx 0 2
+rz 2.18701 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -2.61621 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+cx 0 2
+rz 2.53814 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -2.01615 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -2.85298 2
+cx 1 2
+rz -pi/4 2
+cx 0 2
+rz pi/4 2
+cx 1 2
+rz pi/4 1
+rz -pi/4 2
+cx 0 2
+cx 0 1
+rz pi/4 0
+rz -pi/4 1
+cx 0 1
+rz -pi/4 0
+rz pi/4 1
+cx 0 1
+rz -3*pi/4 1
+rz -pi/2 1
+h 1
+rz -pi/2 1
+rz -3*pi/4 1
+rz -pi/2 1
+h 1
+rz -pi/2 1
+cx 0 1
+rz -3*pi/4 0
+rz -pi/2 1
+h 1
+rz -pi/2 1
+rz -3*pi/4 1
+rz -pi/2 1
+h 1
+rz -pi/2 1
+rz pi/4 1
+cx 0 1
+rz -pi/4 1
+rz -pi/2 1
+h 1
+rz -pi/2 1
+rz -2.77674 1
+rz -pi/2 1
+h 1
+rz -pi/2 1
+cx 0 1
+rz pi/2 0
+rz -pi/2 1
+h 1
+rz -pi/2 1
+rz 1.93565 1
+rz 3*pi/4 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz pi/2 2
+cx 0 2
+rz pi/2 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -2.72105 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+cx 0 2
+rz pi/4 0
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -2.72105 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -3*pi/4 2
+cx 0 2
+rz 3*pi/4 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -3*pi/4 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+cx 0 2
+rz -pi/4 0
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -3*pi/4 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -pi/2 2
+rz pi/4 3
+cx 0 3
+rz -3*pi/4 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -3*pi/4 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+cx 0 3
+rz -3*pi/4 0
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -3*pi/4 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz pi/4 3
+cx 0 3
+rz -pi/4 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -2.77674 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+cx 0 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz 1.93565 3
+cx 2 3
+rz -pi/4 3
+cx 0 3
+rz pi/4 3
+cx 2 3
+rz pi/4 2
+rz -pi/4 3
+cx 0 3
+cx 0 2
+rz pi/4 0
+rz -pi/4 2
+cx 0 2
+rz -pi/4 0
+rz 3*pi/4 2
+cx 0 2
+rz -3*pi/4 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -3*pi/4 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+cx 0 2
+rz 0.954585 0
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -3*pi/4 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz 3*pi/4 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz 3.06305 3
+cx 0 3
+rz 2.18701 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -2.61621 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+cx 0 3
+rz 2.53814 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -2.01615 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -2.85298 3
+cx 2 3
+rz -pi/4 3
+cx 0 3
+rz pi/4 3
+cx 2 3
+rz pi/4 2
+rz -pi/4 3
+cx 0 3
+cx 0 2
+rz pi/4 0
+rz -pi/4 2
+cx 0 2
+rz -pi/4 0
+rz pi/4 2
+cx 0 2
+rz -3*pi/4 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -3*pi/4 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+cx 0 2
+rz -3*pi/4 0
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -3*pi/4 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz pi/4 2
+cx 0 2
+rz -pi/4 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -2.77674 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+cx 0 2
+rz pi/2 0
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz 1.93565 2
+rz 3*pi/4 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz pi/2 3
+cx 0 3
+rz pi/2 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -2.72105 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+cx 0 3
+rz pi/4 0
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -2.72105 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -3*pi/4 3
+cx 0 3
+rz 3*pi/4 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -3*pi/4 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+cx 0 3
+rz -pi/4 0
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -3*pi/4 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -pi/2 3
+rz pi/4 4
+cx 0 4
+rz -3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+cx 0 4
+rz -3*pi/4 0
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz pi/4 4
+cx 0 4
+rz -pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -2.77674 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+cx 0 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz 1.93565 4
+cx 3 4
+rz -pi/4 4
+cx 0 4
+rz pi/4 4
+cx 3 4
+rz pi/4 3
+rz -pi/4 4
+cx 0 4
+cx 0 3
+rz pi/4 0
+rz -pi/4 3
+cx 0 3
+rz -pi/4 0
+rz 3*pi/4 3
+cx 0 3
+rz -3*pi/4 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -3*pi/4 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+cx 0 3
+rz 0.954585 0
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -3*pi/4 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz 3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz 3.06305 4
+cx 0 4
+rz 2.18701 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -2.61621 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+cx 0 4
+rz 2.53814 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -2.01615 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -2.85298 4
+cx 3 4
+rz -pi/4 4
+cx 0 4
+rz pi/4 4
+cx 3 4
+rz pi/4 3
+rz -pi/4 4
+cx 0 4
+cx 0 3
+rz pi/4 0
+rz -pi/4 3
+cx 0 3
+rz -pi/4 0
+rz pi/4 3
+cx 0 3
+rz -3*pi/4 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -3*pi/4 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+cx 0 3
+rz -3*pi/4 0
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -3*pi/4 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz pi/4 3
+cx 0 3
+rz -pi/4 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -2.77674 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+cx 0 3
+rz pi/2 0
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz 1.93565 3
+rz 3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz pi/2 4
+cx 0 4
+rz pi/2 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -2.72105 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+cx 0 4
+rz pi/4 0
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -2.72105 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -3*pi/4 4
+cx 0 4
+rz 3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+cx 0 4
+rz -pi/4 0
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -pi/2 4
+rz pi/4 5
+cx 0 5
+rz -3*pi/4 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+rz -3*pi/4 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+cx 0 5
+rz -3*pi/4 0
+rz -pi/2 5
+h 5
+rz -pi/2 5
+rz -3*pi/4 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+rz pi/4 5
+cx 0 5
+rz -pi/4 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+rz -2.77674 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+cx 0 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+rz 1.93565 5
+cx 4 5
+rz -pi/4 5
+cx 0 5
+rz pi/4 5
+cx 4 5
+rz pi/4 4
+rz -pi/4 5
+cx 0 5
+cx 0 4
+rz pi/4 0
+rz -pi/4 4
+cx 0 4
+rz -pi/4 0
+rz 3*pi/4 4
+cx 0 4
+rz -3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+cx 0 4
+rz 0.954585 0
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz 3*pi/4 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+rz 3.06305 5
+cx 0 5
+rz 2.18701 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+rz -2.61621 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+cx 0 5
+rz 2.53814 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+rz -2.01615 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+rz -2.85298 5
+cx 4 5
+rz -pi/4 5
+cx 0 5
+rz pi/4 5
+cx 4 5
+rz pi/4 4
+rz -pi/4 5
+cx 0 5
+cx 0 4
+rz pi/4 0
+rz -pi/4 4
+cx 0 4
+rz -pi/4 0
+rz pi/4 4
+cx 0 4
+rz -3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+cx 0 4
+rz -3*pi/4 0
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz pi/4 4
+cx 0 4
+rz -pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -2.77674 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+cx 0 4
+rz pi/2 0
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz 1.93565 4
+rz 3*pi/4 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+rz pi/2 5
+cx 0 5
+rz pi/2 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+rz -2.72105 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+cx 0 5
+rz pi/2 0
+rz -pi/2 5
+h 5
+rz -pi/2 5
+rz -2.72105 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+cx 0 5
+rz pi/2 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+rz -3*pi/4 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+cx 0 5
+rz pi/2 0
+rz -pi 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+rz 3*pi/4 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+rz 3*pi/4 6
+rz -pi/2 6
+h 6
+rz -pi/2 6
+rz -pi 6
+cx 0 6
+rz pi/2 6
+rz -pi/2 6
+h 6
+rz -pi/2 6
+rz -3*pi/4 6
+rz -pi/2 6
+h 6
+rz -pi/2 6
+cx 0 6
+rz pi/2 0
+rz -pi/2 6
+h 6
+rz -pi/2 6
+rz -3*pi/4 6
+rz -pi/2 6
+h 6
+rz -pi/2 6
+rz -pi/2 6
+cx 0 6
+rz pi/2 6
+rz -pi/2 6
+h 6
+rz -pi/2 6
+rz -3*pi/4 6
+rz -pi/2 6
+h 6
+rz -pi/2 6
+cx 0 6
+rz pi/2 0
+rz -pi/2 6
+h 6
+rz -pi/2 6
+rz -3*pi/4 6
+rz -pi/2 6
+h 6
+rz -pi/2 6
+rz -pi/2 6
+cx 0 6
+rz pi/2 6
+rz -pi/2 6
+h 6
+rz -pi/2 6
+rz -3*pi/4 6
+rz -pi/2 6
+h 6
+rz -pi/2 6
+cx 0 6
+rz pi/2 0
+rz -pi/2 6
+h 6
+rz -pi/2 6
+rz -3*pi/4 6
+rz -pi/2 6
+h 6
+rz -pi/2 6
+rz -pi/2 6
+cx 0 6
+rz pi/2 6
+rz -pi/2 6
+h 6
+rz -pi/2 6
+rz -3*pi/4 6
+rz -pi/2 6
+h 6
+rz -pi/2 6
+cx 0 6
+rz -pi/2 6
+h 6
+rz -pi/2 6
+rz 3*pi/4 6
+rz -pi/2 6
+h 6
+rz -pi/2 6
+cx 5 6
+rz -pi/4 6
+cx 0 6
+rz pi/4 6
+cx 5 6
+rz pi/4 5
+rz -pi/4 6
+cx 0 6
+cx 0 5
+rz pi/4 0
+rz 3*pi/4 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+rz -1.16178 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+cx 0 5
+rz pi/2 0
+rz -pi 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+rz 1.16178 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+rz 3*pi/4 6
+rz -pi/2 6
+h 6
+rz -pi/2 6
+rz -pi 6
+cx 0 6
+rz pi/2 6
+rz -pi/2 6
+h 6
+rz -pi/2 6
+rz -3*pi/4 6
+rz -pi/2 6
+h 6
+rz -pi/2 6
+cx 0 6
+rz -pi 6
+rz -pi/2 6
+h 6
+rz -pi/2 6
+rz 3*pi/4 6
+rz -pi/2 6
+h 6
+rz -pi/2 6
+cx 0 6
+rz -pi 6
+rz -pi/2 6
+h 6
+rz -pi/2 6
+rz 1.16178 6
+rz -pi/2 6
+h 6
+rz -pi/2 6
+cx 0 6
+rz pi/2 0
+rz -pi/2 6
+h 6
+rz -pi/2 6
+rz 1.16178 6
+rz -pi/2 6
+h 6
+rz -pi/2 6
+rz -pi/2 6
+cx 0 6
+rz pi/2 6
+rz -pi/2 6
+h 6
+rz -pi/2 6
+rz -3*pi/4 6
+rz -pi/2 6
+h 6
+rz -pi/2 6
+cx 0 6
+rz -pi/2 6
+h 6
+rz -pi/2 6
+rz 3*pi/4 6
+rz -pi/2 6
+h 6
+rz -pi/2 6
+cx 5 6
+rz -pi/4 6
+cx 0 6
+rz pi/4 6
+cx 5 6
+rz pi/4 5
+rz -pi/4 6
+cx 0 6
+cx 0 5
+rz pi/4 0
+rz -pi/4 5
+cx 0 5
+rz pi/2 0
+rz pi/2 5
+cx 0 5
+rz pi/2 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+rz -3*pi/4 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+cx 0 5
+rz pi/4 0
+rz -pi/2 5
+h 5
+rz -pi/2 5
+rz -3*pi/4 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+rz 3*pi/4 5
+cx 0 5
+rz 3*pi/4 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+rz -3*pi/4 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+cx 0 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+rz -3*pi/4 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+rz -pi/2 5
+cx 5 4
+rz -pi/4 4
+cx 0 4
+rz pi/4 4
+cx 5 4
+rz -pi/4 4
+cx 0 4
+rz 3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz 3.06305 4
+rz pi/4 5
+cx 0 5
+rz pi/4 0
+rz -pi/4 5
+cx 0 5
+rz 0.954585 0
+cx 0 4
+rz 2.18701 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -2.61621 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+cx 0 4
+rz -pi/4 0
+rz 2.53814 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -2.01615 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -2.85298 4
+rz 3*pi/4 5
+cx 0 5
+rz -3*pi/4 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+rz -3*pi/4 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+cx 0 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+rz -3*pi/4 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+cx 5 4
+rz -pi/4 4
+cx 0 4
+rz pi/4 4
+cx 5 4
+rz -pi/4 4
+cx 0 4
+rz 3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz pi/2 4
+rz pi/4 5
+cx 0 5
+rz pi/4 0
+rz -pi/4 5
+cx 0 5
+rz pi/2 0
+cx 0 4
+rz pi/2 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -2.72105 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+cx 0 4
+rz pi/4 0
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -2.72105 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -3*pi/4 4
+cx 0 4
+rz 3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+cx 0 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -pi/2 4
+cx 4 3
+rz -pi/4 3
+cx 0 3
+rz pi/4 3
+cx 4 3
+rz -pi/4 3
+cx 0 3
+rz 3*pi/4 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz 3.06305 3
+rz pi/4 4
+cx 0 4
+rz pi/4 0
+rz -pi/4 4
+cx 0 4
+rz 0.954585 0
+cx 0 3
+rz 2.18701 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -2.61621 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+cx 0 3
+rz -pi/4 0
+rz 2.53814 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -2.01615 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -2.85298 3
+rz 3*pi/4 4
+cx 0 4
+rz -3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+cx 0 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+cx 4 3
+rz -pi/4 3
+cx 0 3
+rz pi/4 3
+cx 4 3
+rz -pi/4 3
+cx 0 3
+rz 3*pi/4 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz pi/2 3
+rz pi/4 4
+cx 0 4
+rz pi/4 0
+rz -pi/4 4
+cx 0 4
+rz pi/2 0
+cx 0 3
+rz pi/2 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -2.72105 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+cx 0 3
+rz pi/4 0
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -2.72105 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -3*pi/4 3
+cx 0 3
+rz 3*pi/4 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -3*pi/4 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+cx 0 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -3*pi/4 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -pi/2 3
+cx 3 2
+rz -pi/4 2
+cx 0 2
+rz pi/4 2
+cx 3 2
+rz -pi/4 2
+cx 0 2
+rz 3*pi/4 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz 3.06305 2
+rz pi/4 3
+cx 0 3
+rz pi/4 0
+rz -pi/4 3
+cx 0 3
+rz 0.954585 0
+cx 0 2
+rz 2.18701 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -2.61621 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+cx 0 2
+rz -pi/4 0
+rz 2.53814 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -2.01615 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -2.85298 2
+rz 3*pi/4 3
+cx 0 3
+rz -3*pi/4 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -3*pi/4 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+cx 0 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -3*pi/4 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+cx 3 2
+rz -pi/4 2
+cx 0 2
+rz pi/4 2
+cx 3 2
+rz -pi/4 2
+cx 0 2
+rz 3*pi/4 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz pi/2 2
+rz pi/4 3
+cx 0 3
+rz pi/4 0
+rz -pi/4 3
+cx 0 3
+rz pi/2 0
+cx 0 2
+rz pi/2 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -2.72105 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+cx 0 2
+rz pi/4 0
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -2.72105 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -3*pi/4 2
+cx 0 2
+rz 3*pi/4 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -3*pi/4 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+cx 0 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -3*pi/4 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -pi/2 2
+cx 2 1
+rz -pi/4 1
+cx 0 1
+rz pi/4 1
+cx 2 1
+rz -pi/4 1
+cx 0 1
+rz 3*pi/4 1
+rz -pi/2 1
+h 1
+rz -pi/2 1
+rz 3.06305 1
+rz pi/4 2
+cx 0 2
+rz pi/4 0
+rz -pi/4 2
+cx 0 2
+rz 0.954585 0
+cx 0 1
+rz 2.18701 1
+rz -pi/2 1
+h 1
+rz -pi/2 1
+rz -2.61621 1
+rz -pi/2 1
+h 1
+rz -pi/2 1
+cx 0 1
+rz -pi/4 0
+rz 2.53814 1
+rz -pi/2 1
+h 1
+rz -pi/2 1
+rz -2.01615 1
+rz -pi/2 1
+h 1
+rz -pi/2 1
+rz -2.85298 1
+rz 3*pi/4 2
+cx 0 2
+rz -3*pi/4 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -3*pi/4 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+cx 0 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -3*pi/4 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+cx 2 1
+rz -pi/4 1
+cx 0 1
+rz pi/4 1
+cx 2 1
+rz -pi/4 1
+cx 0 1
+rz 3*pi/4 1
+rz -pi/2 1
+h 1
+rz -pi/2 1
+rz pi/2 1
+rz pi/4 2
+cx 0 2
+rz pi/4 0
+rz -pi/4 2
+cx 0 2
+rz pi/2 0
+cx 0 1
+rz pi/2 1
+rz -pi/2 1
+h 1
+rz -pi/2 1
+rz -2.72105 1
+rz -pi/2 1
+h 1
+rz -pi/2 1
+cx 0 1
+rz -pi/4 0
+rz -pi/2 1
+h 1
+rz -pi/2 1
+rz -2.72105 1
+rz -pi/2 1
+h 1
+rz -pi/2 1
+rz -pi/2 1
+rz pi/4 2
+cx 0 2
+rz -3*pi/4 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -3*pi/4 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+cx 0 2
+rz -pi/4 0
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz -3*pi/4 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz pi/2 2
+rz pi/4 3
+cx 0 3
+rz -3*pi/4 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -3*pi/4 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+cx 0 3
+rz -pi/4 0
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz -3*pi/4 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz pi/2 3
+rz pi/4 4
+cx 0 4
+rz -3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+cx 0 4
+rz -pi/4 0
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz -3*pi/4 4
+rz -pi/2 4
+h 4
+rz -pi/2 4
+rz pi/2 4
+rz pi/4 5
+cx 0 5
+rz -3*pi/4 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+rz -3*pi/4 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+cx 0 5
+rz pi/2 0
+rz -pi/2 5
+h 5
+rz -pi/2 5
+rz -3*pi/4 5
+rz -pi/2 5
+h 5
+rz -pi/2 5
+rz pi/2 5
+rz 3*pi/4 6
+rz -pi/2 6
+h 6
+rz -pi/2 6
+rz -pi 6
+cx 0 6
+rz pi/2 6
+rz -pi/2 6
+h 6
+rz -pi/2 6
+rz -3*pi/4 6
+rz -pi/2 6
+h 6
+rz -pi/2 6
+cx 0 6
+rz pi/2 0
+rz -pi/2 6
+h 6
+rz -pi/2 6
+rz -3*pi/4 6
+rz -pi/2 6
+h 6
+rz -pi/2 6
+rz -pi/2 6
+cx 0 6
+rz pi/2 6
+rz -pi/2 6
+h 6
+rz -pi/2 6
+rz -3*pi/4 6
+rz -pi/2 6
+h 6
+rz -pi/2 6
+cx 0 6
+rz pi/4 0
+rz -pi 6
+rz -pi/2 6
+h 6
+rz -pi/2 6
+rz 3*pi/4 6
+rz -pi/2 6
+h 6
+rz -pi/2 6
+x 7
+rz -pi/4 7
+cx 0 7
+rz 3*pi/4 7
+rz -pi/2 7
+h 7
+rz -pi/2 7
+rz -3*pi/4 7
+rz -pi/2 7
+h 7
+rz -pi/2 7
+cx 0 7
+rz -3*pi/4 0
+rz -pi/2 7
+h 7
+rz -pi/2 7
+rz -3*pi/4 7
+rz -pi/2 7
+h 7
+rz -pi/2 7
+rz -pi/2 7
+x 8
+rz -pi/4 8
+cx 0 8
+rz -pi/4 8
+rz -pi/2 8
+h 8
+rz -pi/2 8
+rz -2.77674 8
+rz -pi/2 8
+h 8
+rz -pi/2 8
+cx 0 8
+rz -pi/2 8
+h 8
+rz -pi/2 8
+rz 1.93565 8
+cx 7 8
+rz -pi/4 8
+cx 0 8
+rz pi/4 8
+cx 7 8
+rz pi/4 7
+rz -pi/4 8
+cx 0 8
+cx 0 7
+rz pi/4 0
+rz -pi/4 7
+cx 0 7
+rz -pi/4 0
+rz 3*pi/4 7
+cx 0 7
+rz -3*pi/4 7
+rz -pi/2 7
+h 7
+rz -pi/2 7
+rz -3*pi/4 7
+rz -pi/2 7
+h 7
+rz -pi/2 7
+cx 0 7
+rz 0.954585 0
+rz -pi/2 7
+h 7
+rz -pi/2 7
+rz -3*pi/4 7
+rz -pi/2 7
+h 7
+rz -pi/2 7
+rz 3*pi/4 8
+rz -pi/2 8
+h 8
+rz -pi/2 8
+rz 3.06305 8
+cx 0 8
+rz 2.18701 8
+rz -pi/2 8
+h 8
+rz -pi/2 8
+rz -2.61621 8
+rz -pi/2 8
+h 8
+rz -pi/2 8
+cx 0 8
+rz 2.53814 8
+rz -pi/2 8
+h 8
+rz -pi/2 8
+rz -2.01615 8
+rz -pi/2 8
+h 8
+rz -pi/2 8
+rz -2.85298 8
+cx 7 8
+rz -pi/4 8
+cx 0 8
+rz pi/4 8
+cx 7 8
+rz pi/4 7
+rz -pi/4 8
+cx 0 8
+cx 0 7
+rz pi/4 0
+rz -pi/4 7
+cx 0 7
+rz -pi/4 0
+rz pi/4 7
+cx 0 7
+rz -3*pi/4 7
+rz -pi/2 7
+h 7
+rz -pi/2 7
+rz -3*pi/4 7
+rz -pi/2 7
+h 7
+rz -pi/2 7
+cx 0 7
+rz -3*pi/4 0
+rz -pi/2 7
+h 7
+rz -pi/2 7
+rz -3*pi/4 7
+rz -pi/2 7
+h 7
+rz -pi/2 7
+rz pi/4 7
+cx 0 7
+rz -pi/4 7
+rz -pi/2 7
+h 7
+rz -pi/2 7
+rz -2.77674 7
+rz -pi/2 7
+h 7
+rz -pi/2 7
+cx 0 7
+rz pi/2 0
+rz -pi/2 7
+h 7
+rz -pi/2 7
+rz 1.93565 7
+rz 3*pi/4 8
+rz -pi/2 8
+h 8
+rz -pi/2 8
+rz pi/2 8
+cx 0 8
+rz pi/2 8
+rz -pi/2 8
+h 8
+rz -pi/2 8
+rz -2.72105 8
+rz -pi/2 8
+h 8
+rz -pi/2 8
+cx 0 8
+rz pi/4 0
+rz -pi/2 8
+h 8
+rz -pi/2 8
+rz -2.72105 8
+rz -pi/2 8
+h 8
+rz -pi/2 8
+rz -3*pi/4 8
+cx 0 8
+rz 3*pi/4 8
+rz -pi/2 8
+h 8
+rz -pi/2 8
+rz -3*pi/4 8
+rz -pi/2 8
+h 8
+rz -pi/2 8
+cx 0 8
+rz pi/2 0
+rz -pi/2 8
+h 8
+rz -pi/2 8
+rz -3*pi/4 8
+rz -pi/2 8
+h 8
+rz -pi/2 8
+rz -pi/2 8
+x 9
+rz pi/2 9
+cx 0 9
+rz pi/2 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+rz -3*pi/4 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+cx 0 9
+rz pi/2 0
+rz -pi 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+rz 3*pi/4 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+rz pi/2 10
+cx 0 10
+rz pi/2 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -3*pi/4 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+cx 0 10
+rz pi/2 0
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -3*pi/4 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -pi/2 10
+cx 0 10
+rz pi/2 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -3*pi/4 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+cx 0 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz 3*pi/4 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+cx 9 10
+rz -pi/4 10
+cx 0 10
+rz pi/4 10
+cx 9 10
+rz -pi/4 10
+cx 0 10
+rz 3*pi/4 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -pi 10
+rz pi/4 9
+cx 0 9
+rz pi/4 0
+rz 3*pi/4 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+rz 2.14356 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+cx 0 9
+rz pi/2 0
+cx 0 10
+rz pi/2 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -3*pi/4 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+cx 0 10
+rz -pi 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz 3*pi/4 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+cx 0 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz 2.14356 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -pi 10
+cx 0 10
+rz pi/2 0
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -2.14356 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -pi/2 10
+cx 0 10
+rz pi/2 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -3*pi/4 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+cx 0 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz 3*pi/4 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -pi/2 9
+h 9
+rz -pi/2 9
+rz 2.14356 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+rz -pi 9
+cx 9 10
+rz -pi/4 10
+cx 0 10
+rz pi/4 10
+cx 9 10
+rz -pi/4 10
+cx 0 10
+rz 3*pi/4 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -pi 10
+rz pi/4 9
+cx 0 9
+rz pi/4 0
+rz -pi/4 9
+cx 0 9
+rz pi/2 0
+rz pi/2 9
+cx 0 9
+rz pi/2 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+rz -3*pi/4 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+cx 0 9
+rz -3*pi/4 0
+rz -pi/2 9
+h 9
+rz -pi/2 9
+rz -3*pi/4 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+rz 3*pi/4 9
+cx 0 9
+rz -pi/4 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+rz -2.77674 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+cx 0 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+rz 1.93565 9
+cx 8 9
+rz -pi/4 9
+cx 0 9
+rz pi/4 9
+cx 8 9
+rz pi/4 8
+rz -pi/4 9
+cx 0 9
+cx 0 8
+rz pi/4 0
+rz -pi/4 8
+cx 0 8
+rz -pi/4 0
+rz 3*pi/4 8
+cx 0 8
+rz -3*pi/4 8
+rz -pi/2 8
+h 8
+rz -pi/2 8
+rz -3*pi/4 8
+rz -pi/2 8
+h 8
+rz -pi/2 8
+cx 0 8
+rz 0.954585 0
+rz -pi/2 8
+h 8
+rz -pi/2 8
+rz -3*pi/4 8
+rz -pi/2 8
+h 8
+rz -pi/2 8
+rz 3*pi/4 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+rz 3.06305 9
+cx 0 9
+rz 2.18701 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+rz -2.61621 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+cx 0 9
+rz 2.53814 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+rz -2.01615 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+rz -2.85298 9
+cx 8 9
+rz -pi/4 9
+cx 0 9
+rz pi/4 9
+cx 8 9
+rz pi/4 8
+rz -pi/4 9
+cx 0 9
+cx 0 8
+rz pi/4 0
+rz -pi/4 8
+cx 0 8
+rz -pi/4 0
+rz pi/4 8
+cx 0 8
+rz -3*pi/4 8
+rz -pi/2 8
+h 8
+rz -pi/2 8
+rz -3*pi/4 8
+rz -pi/2 8
+h 8
+rz -pi/2 8
+cx 0 8
+rz -3*pi/4 0
+rz -pi/2 8
+h 8
+rz -pi/2 8
+rz -3*pi/4 8
+rz -pi/2 8
+h 8
+rz -pi/2 8
+rz pi/4 8
+cx 0 8
+rz -pi/4 8
+rz -pi/2 8
+h 8
+rz -pi/2 8
+rz -2.77674 8
+rz -pi/2 8
+h 8
+rz -pi/2 8
+cx 0 8
+rz pi/2 0
+rz -pi/2 8
+h 8
+rz -pi/2 8
+rz 1.93565 8
+rz 3*pi/4 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+rz pi/2 9
+cx 0 9
+rz pi/2 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+rz -2.72105 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+cx 0 9
+rz pi/4 0
+rz -pi/2 9
+h 9
+rz -pi/2 9
+rz -2.72105 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+rz -3*pi/4 9
+cx 0 9
+rz 3*pi/4 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+rz -3*pi/4 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+cx 0 9
+rz pi/2 0
+cx 0 10
+rz pi/2 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -3*pi/4 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+cx 0 10
+rz pi/2 0
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -3*pi/4 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -pi/2 10
+cx 0 10
+rz pi/2 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -3*pi/4 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+cx 0 10
+rz -3*pi/4 0
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -3*pi/4 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz 3*pi/4 10
+cx 0 10
+rz -pi/4 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -2.77674 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+cx 0 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz 1.93565 10
+rz -pi/2 9
+h 9
+rz -pi/2 9
+rz -3*pi/4 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+rz -pi/2 9
+cx 9 10
+rz -pi/4 10
+cx 0 10
+rz pi/4 10
+cx 9 10
+rz -pi/4 10
+cx 0 10
+rz 3*pi/4 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz 3.06305 10
+rz pi/4 9
+cx 0 9
+rz pi/4 0
+rz -pi/4 9
+cx 0 9
+rz -pi/4 0
+rz 3*pi/4 9
+cx 0 9
+rz -3*pi/4 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+rz -3*pi/4 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+cx 0 9
+rz 0.954585 0
+cx 0 10
+rz 2.18701 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -2.61621 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+cx 0 10
+rz 2.53814 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -2.01615 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -2.85298 10
+rz -pi/2 9
+h 9
+rz -pi/2 9
+rz -3*pi/4 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+cx 9 10
+rz -pi/4 10
+cx 0 10
+rz pi/4 10
+cx 9 10
+rz -pi/4 10
+cx 0 10
+rz 3*pi/4 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz pi/2 10
+rz pi/4 9
+cx 0 9
+rz pi/4 0
+rz -pi/4 9
+cx 0 9
+rz -pi/4 0
+rz pi/4 9
+cx 0 9
+rz -3*pi/4 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+rz -3*pi/4 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+cx 0 9
+rz -3*pi/4 0
+rz -pi/2 9
+h 9
+rz -pi/2 9
+rz -3*pi/4 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+rz pi/4 9
+cx 0 9
+rz -pi/4 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+rz -2.77674 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+cx 0 9
+rz pi/2 0
+cx 0 10
+rz pi/2 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -2.72105 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+cx 0 10
+rz pi/4 0
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -2.72105 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -3*pi/4 10
+cx 0 10
+rz 3*pi/4 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -3*pi/4 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+cx 0 10
+rz -3*pi/4 0
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -3*pi/4 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -pi/2 10
+rz -pi/2 9
+h 9
+rz -pi/2 9
+rz 1.93565 9
+rz -pi/4 11
+cx 0 11
+rz -pi/4 11
+rz -pi/2 11
+h 11
+rz -pi/2 11
+rz -2.77674 11
+rz -pi/2 11
+h 11
+rz -pi/2 11
+cx 0 11
+rz -pi/2 11
+h 11
+rz -pi/2 11
+rz 1.93565 11
+cx 10 11
+rz -pi/4 11
+cx 0 11
+rz pi/4 11
+cx 10 11
+rz pi/4 10
+rz -pi/4 11
+cx 0 11
+cx 0 10
+rz pi/4 0
+rz -pi/4 10
+cx 0 10
+rz 0.954585 0
+rz 3*pi/4 10
+rz 3*pi/4 11
+rz -pi/2 11
+h 11
+rz -pi/2 11
+rz 3.06305 11
+cx 0 11
+rz 2.18701 11
+rz -pi/2 11
+h 11
+rz -pi/2 11
+rz -2.61621 11
+rz -pi/2 11
+h 11
+rz -pi/2 11
+cx 0 11
+rz -pi/4 0
+cx 0 10
+rz -3*pi/4 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -3*pi/4 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+cx 0 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -3*pi/4 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz 2.53814 11
+rz -pi/2 11
+h 11
+rz -pi/2 11
+rz -2.01615 11
+rz -pi/2 11
+h 11
+rz -pi/2 11
+rz -2.85298 11
+cx 10 11
+rz -pi/4 11
+cx 0 11
+rz pi/4 11
+cx 10 11
+rz pi/4 10
+rz -pi/4 11
+cx 0 11
+cx 0 10
+rz pi/4 0
+rz -pi/4 10
+cx 0 10
+rz pi/2 0
+rz pi/4 10
+rz 3*pi/4 11
+rz -pi/2 11
+h 11
+rz -pi/2 11
+rz pi/2 11
+cx 0 11
+rz pi/2 11
+rz -pi/2 11
+h 11
+rz -pi/2 11
+rz -2.72105 11
+rz -pi/2 11
+h 11
+rz -pi/2 11
+cx 0 11
+rz pi/2 0
+rz -pi/2 11
+h 11
+rz -pi/2 11
+rz -2.72105 11
+rz -pi/2 11
+h 11
+rz -pi/2 11
+cx 0 11
+rz pi/2 11
+rz -pi/2 11
+h 11
+rz -pi/2 11
+rz -3*pi/4 11
+rz -pi/2 11
+h 11
+rz -pi/2 11
+cx 0 11
+rz -pi/4 0
+cx 0 10
+rz -3*pi/4 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -3*pi/4 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+cx 0 10
+rz -3*pi/4 0
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -3*pi/4 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz pi/4 10
+cx 0 10
+rz -pi/4 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -2.77674 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+cx 0 10
+rz pi/2 0
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz 1.93565 10
+rz -pi 11
+rz -pi/2 11
+h 11
+rz -pi/2 11
+rz 3*pi/4 11
+rz -pi/2 11
+h 11
+rz -pi/2 11
+rz pi/2 12
+cx 0 12
+rz pi/2 12
+rz -pi/2 12
+h 12
+rz -pi/2 12
+rz -3*pi/4 12
+rz -pi/2 12
+h 12
+rz -pi/2 12
+cx 0 12
+rz pi/2 0
+rz -pi/2 12
+h 12
+rz -pi/2 12
+rz -3*pi/4 12
+rz -pi/2 12
+h 12
+rz -pi/2 12
+rz -pi/2 12
+cx 0 12
+rz pi/2 12
+rz -pi/2 12
+h 12
+rz -pi/2 12
+rz -3*pi/4 12
+rz -pi/2 12
+h 12
+rz -pi/2 12
+cx 0 12
+rz -pi/2 12
+h 12
+rz -pi/2 12
+rz 3*pi/4 12
+rz -pi/2 12
+h 12
+rz -pi/2 12
+cx 11 12
+rz -pi/4 12
+cx 0 12
+rz pi/4 12
+cx 11 12
+rz pi/4 11
+rz -pi/4 12
+cx 0 12
+cx 0 11
+rz pi/4 0
+rz 3*pi/4 11
+rz -pi/2 11
+h 11
+rz -pi/2 11
+rz -0.328124 11
+rz -pi/2 11
+h 11
+rz -pi/2 11
+cx 0 11
+rz pi/2 0
+rz -pi 11
+rz -pi/2 11
+h 11
+rz -pi/2 11
+rz 0.328124 11
+rz -pi/2 11
+h 11
+rz -pi/2 11
+rz 3*pi/4 12
+rz -pi/2 12
+h 12
+rz -pi/2 12
+rz -pi 12
+cx 0 12
+rz pi/2 12
+rz -pi/2 12
+h 12
+rz -pi/2 12
+rz -3*pi/4 12
+rz -pi/2 12
+h 12
+rz -pi/2 12
+cx 0 12
+rz -pi 12
+rz -pi/2 12
+h 12
+rz -pi/2 12
+rz 3*pi/4 12
+rz -pi/2 12
+h 12
+rz -pi/2 12
+cx 0 12
+rz -pi 12
+rz -pi/2 12
+h 12
+rz -pi/2 12
+rz 0.328124 12
+rz -pi/2 12
+h 12
+rz -pi/2 12
+cx 0 12
+rz pi/2 0
+rz -pi/2 12
+h 12
+rz -pi/2 12
+rz 0.328124 12
+rz -pi/2 12
+h 12
+rz -pi/2 12
+rz -pi/2 12
+cx 0 12
+rz pi/2 12
+rz -pi/2 12
+h 12
+rz -pi/2 12
+rz -3*pi/4 12
+rz -pi/2 12
+h 12
+rz -pi/2 12
+cx 0 12
+rz -pi/2 12
+h 12
+rz -pi/2 12
+rz 3*pi/4 12
+rz -pi/2 12
+h 12
+rz -pi/2 12
+cx 11 12
+rz -pi/4 12
+cx 0 12
+rz pi/4 12
+cx 11 12
+rz pi/4 11
+rz -pi/4 12
+cx 0 12
+cx 0 11
+rz pi/4 0
+rz -pi/4 11
+cx 0 11
+rz pi/2 0
+rz pi/2 11
+cx 0 11
+rz pi/2 11
+rz -pi/2 11
+h 11
+rz -pi/2 11
+rz -3*pi/4 11
+rz -pi/2 11
+h 11
+rz -pi/2 11
+cx 0 11
+rz pi/4 0
+rz -pi/2 11
+h 11
+rz -pi/2 11
+rz -3*pi/4 11
+rz -pi/2 11
+h 11
+rz -pi/2 11
+rz 3*pi/4 11
+cx 0 11
+rz 3*pi/4 11
+rz -pi/2 11
+h 11
+rz -pi/2 11
+rz -3*pi/4 11
+rz -pi/2 11
+h 11
+rz -pi/2 11
+cx 0 11
+rz -pi/2 11
+h 11
+rz -pi/2 11
+rz -3*pi/4 11
+rz -pi/2 11
+h 11
+rz -pi/2 11
+rz -pi/2 11
+cx 11 10
+rz -pi/4 10
+cx 0 10
+rz pi/4 10
+cx 11 10
+rz -pi/4 10
+cx 0 10
+rz 3*pi/4 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz 3.06305 10
+rz pi/4 11
+cx 0 11
+rz pi/4 0
+rz -pi/4 11
+cx 0 11
+rz -pi/4 0
+rz 3*pi/4 11
+cx 0 11
+rz -3*pi/4 11
+rz -pi/2 11
+h 11
+rz -pi/2 11
+rz -3*pi/4 11
+rz -pi/2 11
+h 11
+rz -pi/2 11
+cx 0 11
+rz pi/2 0
+rz -pi/2 11
+h 11
+rz -pi/2 11
+rz -3*pi/4 11
+rz -pi/2 11
+h 11
+rz -pi/2 11
+rz 3*pi/4 12
+rz -pi/2 12
+h 12
+rz -pi/2 12
+rz -pi 12
+cx 0 12
+rz pi/2 12
+rz -pi/2 12
+h 12
+rz -pi/2 12
+rz -3*pi/4 12
+rz -pi/2 12
+h 12
+rz -pi/2 12
+cx 0 12
+rz pi/2 0
+rz -pi/2 12
+h 12
+rz -pi/2 12
+rz -3*pi/4 12
+rz -pi/2 12
+h 12
+rz -pi/2 12
+rz -pi/2 12
+cx 0 12
+rz pi/2 12
+rz -pi/2 12
+h 12
+rz -pi/2 12
+rz -3*pi/4 12
+rz -pi/2 12
+h 12
+rz -pi/2 12
+cx 0 12
+rz pi/2 0
+rz -pi 12
+rz -pi/2 12
+h 12
+rz -pi/2 12
+rz 3*pi/4 12
+rz -pi/2 12
+h 12
+rz -pi/2 12
+cx 0 12
+rz -pi/2 12
+h 12
+rz -pi/2 12
+rz -pi/2 12
+cx 0 12
+rz 0.954585 0
+cx 0 10
+rz 2.18701 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -2.61621 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+cx 0 10
+rz 2.53814 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -2.01615 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -2.85298 10
+cx 11 10
+rz -pi/4 10
+cx 0 10
+rz pi/4 10
+cx 11 10
+rz -pi/4 10
+cx 0 10
+rz 3*pi/4 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz pi/2 10
+rz pi/4 11
+cx 0 11
+rz pi/4 0
+rz -pi/4 11
+cx 0 11
+rz -pi/4 0
+rz pi/4 11
+cx 0 11
+rz -3*pi/4 11
+rz -pi/2 11
+h 11
+rz -pi/2 11
+rz -3*pi/4 11
+rz -pi/2 11
+h 11
+rz -pi/2 11
+cx 0 11
+rz pi/2 0
+rz -pi/2 11
+h 11
+rz -pi/2 11
+rz -3*pi/4 11
+rz -pi/2 11
+h 11
+rz -pi/2 11
+rz pi/2 11
+cx 0 11
+rz -pi/2 11
+h 11
+rz -pi/2 11
+rz -pi/2 11
+cx 0 11
+rz pi/2 0
+cx 0 10
+rz pi/2 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -2.72105 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+cx 0 10
+rz pi/4 0
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -2.72105 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -3*pi/4 10
+cx 0 10
+rz 3*pi/4 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -3*pi/4 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+cx 0 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -3*pi/4 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -pi/2 10
+cx 10 9
+rz -pi/2 11
+rz -pi/2 11
+h 11
+rz -pi/2 11
+rz -pi 11
+rz -pi/2 12
+rz -pi/2 12
+h 12
+rz -pi/2 12
+rz -pi 12
+rz -pi/4 9
+cx 0 9
+rz pi/4 9
+cx 10 9
+rz pi/4 10
+rz -pi/4 9
+cx 0 9
+cx 0 10
+rz pi/4 0
+rz -pi/4 10
+cx 0 10
+rz 0.954585 0
+rz 3*pi/4 10
+rz 3*pi/4 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+rz 3.06305 9
+cx 0 9
+rz 2.18701 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+rz -2.61621 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+cx 0 9
+rz -pi/4 0
+cx 0 10
+rz -3*pi/4 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -3*pi/4 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+cx 0 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -3*pi/4 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz 2.53814 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+rz -2.01615 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+rz -2.85298 9
+cx 10 9
+rz -pi/4 9
+cx 0 9
+rz pi/4 9
+cx 10 9
+rz pi/4 10
+rz -pi/4 9
+cx 0 9
+cx 0 10
+rz pi/4 0
+rz -pi/4 10
+cx 0 10
+rz pi/2 0
+rz pi/4 10
+rz 3*pi/4 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+rz pi/2 9
+cx 0 9
+rz pi/2 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+rz -2.72105 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+cx 0 9
+rz pi/4 0
+rz -pi/2 9
+h 9
+rz -pi/2 9
+rz -2.72105 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+rz -3*pi/4 9
+cx 0 9
+rz 3*pi/4 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+rz -3*pi/4 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+cx 0 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+rz -3*pi/4 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+rz -pi/2 9
+cx 9 8
+rz -pi/4 8
+cx 0 8
+rz pi/4 8
+cx 9 8
+rz -pi/4 8
+cx 0 8
+rz 3*pi/4 8
+rz -pi/2 8
+h 8
+rz -pi/2 8
+rz 3.06305 8
+rz pi/4 9
+cx 0 9
+rz pi/4 0
+rz -pi/4 9
+cx 0 9
+rz 0.954585 0
+cx 0 8
+rz 2.18701 8
+rz -pi/2 8
+h 8
+rz -pi/2 8
+rz -2.61621 8
+rz -pi/2 8
+h 8
+rz -pi/2 8
+cx 0 8
+rz -pi/4 0
+rz 2.53814 8
+rz -pi/2 8
+h 8
+rz -pi/2 8
+rz -2.01615 8
+rz -pi/2 8
+h 8
+rz -pi/2 8
+rz -2.85298 8
+rz 3*pi/4 9
+cx 0 9
+rz -3*pi/4 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+rz -3*pi/4 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+cx 0 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+rz -3*pi/4 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+cx 9 8
+rz -pi/4 8
+cx 0 8
+rz pi/4 8
+cx 9 8
+rz -pi/4 8
+cx 0 8
+rz 3*pi/4 8
+rz -pi/2 8
+h 8
+rz -pi/2 8
+rz pi/2 8
+rz pi/4 9
+cx 0 9
+rz pi/4 0
+rz -pi/4 9
+cx 0 9
+rz pi/2 0
+cx 0 8
+rz pi/2 8
+rz -pi/2 8
+h 8
+rz -pi/2 8
+rz -2.72105 8
+rz -pi/2 8
+h 8
+rz -pi/2 8
+cx 0 8
+rz pi/4 0
+rz -pi/2 8
+h 8
+rz -pi/2 8
+rz -2.72105 8
+rz -pi/2 8
+h 8
+rz -pi/2 8
+rz -3*pi/4 8
+cx 0 8
+rz 3*pi/4 8
+rz -pi/2 8
+h 8
+rz -pi/2 8
+rz -3*pi/4 8
+rz -pi/2 8
+h 8
+rz -pi/2 8
+cx 0 8
+rz -pi/2 8
+h 8
+rz -pi/2 8
+rz -3*pi/4 8
+rz -pi/2 8
+h 8
+rz -pi/2 8
+rz -pi/2 8
+cx 8 7
+rz -pi/4 7
+cx 0 7
+rz pi/4 7
+cx 8 7
+rz -pi/4 7
+cx 0 7
+rz 3*pi/4 7
+rz -pi/2 7
+h 7
+rz -pi/2 7
+rz 3.06305 7
+rz pi/4 8
+cx 0 8
+rz pi/4 0
+rz -pi/4 8
+cx 0 8
+rz 0.954585 0
+cx 0 7
+rz 2.18701 7
+rz -pi/2 7
+h 7
+rz -pi/2 7
+rz -2.61621 7
+rz -pi/2 7
+h 7
+rz -pi/2 7
+cx 0 7
+rz -pi/4 0
+rz 2.53814 7
+rz -pi/2 7
+h 7
+rz -pi/2 7
+rz -2.01615 7
+rz -pi/2 7
+h 7
+rz -pi/2 7
+rz -2.85298 7
+rz 3*pi/4 8
+cx 0 8
+rz -3*pi/4 8
+rz -pi/2 8
+h 8
+rz -pi/2 8
+rz -3*pi/4 8
+rz -pi/2 8
+h 8
+rz -pi/2 8
+cx 0 8
+rz -pi/2 8
+h 8
+rz -pi/2 8
+rz -3*pi/4 8
+rz -pi/2 8
+h 8
+rz -pi/2 8
+cx 8 7
+rz -pi/4 7
+cx 0 7
+rz pi/4 7
+cx 8 7
+rz -pi/4 7
+cx 0 7
+rz 3*pi/4 7
+rz -pi/2 7
+h 7
+rz -pi/2 7
+rz pi/2 7
+rz pi/4 8
+cx 0 8
+rz pi/4 0
+rz -pi/4 8
+cx 0 8
+rz pi/2 0
+cx 0 7
+rz pi/2 7
+rz -pi/2 7
+h 7
+rz -pi/2 7
+rz -2.72105 7
+rz -pi/2 7
+h 7
+rz -pi/2 7
+cx 0 7
+rz -pi/4 0
+rz -pi/2 7
+h 7
+rz -pi/2 7
+rz -2.72105 7
+rz -pi/2 7
+h 7
+rz -pi/2 7
+rz -pi/2 7
+rz pi/4 8
+cx 0 8
+rz -3*pi/4 8
+rz -pi/2 8
+h 8
+rz -pi/2 8
+rz -3*pi/4 8
+rz -pi/2 8
+h 8
+rz -pi/2 8
+cx 0 8
+rz -pi/4 0
+rz -pi/2 8
+h 8
+rz -pi/2 8
+rz -3*pi/4 8
+rz -pi/2 8
+h 8
+rz -pi/2 8
+rz pi/2 8
+rz pi/4 9
+cx 0 9
+rz -3*pi/4 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+rz -3*pi/4 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+cx 0 9
+rz pi/2 0
+rz -pi 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+rz 3*pi/4 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+cx 0 9
+rz pi/2 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+rz -3*pi/4 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+cx 0 9
+rz -pi/4 0
+cx 0 10
+rz -3*pi/4 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -3*pi/4 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+cx 0 10
+rz pi/2 0
+rz -pi 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz 3*pi/4 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+cx 0 10
+rz pi/2 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -3*pi/4 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+cx 0 10
+rz pi/2 0
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -3*pi/4 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -pi/2 10
+cx 0 10
+rz pi/2 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -3*pi/4 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+cx 0 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz 3*pi/4 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -pi 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+rz 3*pi/4 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+cx 9 10
+rz -pi/4 10
+cx 0 10
+rz pi/4 10
+cx 9 10
+rz -pi/4 10
+cx 0 10
+rz 3*pi/4 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -pi 10
+rz pi/4 9
+cx 0 9
+rz pi/4 0
+rz 3*pi/4 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+rz -1.16178 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+cx 0 9
+rz pi/2 0
+cx 0 10
+rz pi/2 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -3*pi/4 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+cx 0 10
+rz -pi 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz 3*pi/4 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+cx 0 10
+rz -pi 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz 1.16178 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+cx 0 10
+rz pi/2 0
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz 1.16178 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -pi/2 10
+cx 0 10
+rz pi/2 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -3*pi/4 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+cx 0 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz 3*pi/4 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -pi 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+rz 1.16178 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+cx 9 10
+rz -pi/4 10
+cx 0 10
+rz pi/4 10
+cx 9 10
+rz -pi/4 10
+cx 0 10
+rz 3*pi/4 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -pi 10
+rz pi/4 9
+cx 0 9
+rz pi/4 0
+rz -pi/4 9
+cx 0 9
+rz pi/2 0
+rz pi/2 9
+cx 0 9
+rz pi/2 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+rz -3*pi/4 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+cx 0 9
+rz pi/2 0
+cx 0 10
+rz pi/2 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -3*pi/4 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+cx 0 10
+rz pi/2 0
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -3*pi/4 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -pi/2 10
+cx 0 10
+rz pi/2 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -3*pi/4 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+cx 0 10
+rz -2.48969 0
+rz -pi/2 0
+h 0
+rz -pi/2 0
+rz pi/2 0
+rz -pi 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz 3*pi/4 10
+rz -pi/2 10
+h 10
+rz -pi/2 10
+rz -pi 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+rz 3*pi/4 9
+rz -pi/2 9
+h 9
+rz -pi/2 9
+measure 0

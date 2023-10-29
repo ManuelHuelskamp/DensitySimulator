@@ -1,0 +1,323 @@
+//q: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 
+15
+h 0
+h 1
+h 2
+h 3
+h 4
+h 5
+h 6
+h 7
+h 8
+h 9
+x 10
+x 12
+x 14
+h 12
+cx 10 12
+rz -pi/4 12
+cx 9 12
+rz pi/4 12
+cx 10 12
+rz -pi/4 12
+cx 9 12
+rz pi/4 10
+rz pi/4 12
+cx 9 10
+h 12
+rz pi/4 9
+rz -pi/4 10
+cx 9 10
+h 13
+cx 12 13
+rz -pi/4 13
+cx 11 13
+rz pi/4 13
+cx 12 13
+rz -pi/4 13
+cx 11 13
+rz pi/4 12
+rz pi/4 13
+cx 11 12
+h 13
+rz pi/4 11
+rz -pi/4 12
+cx 11 12
+h 14
+cx 13 14
+h 14
+h 13
+cx 12 13
+rz -pi/4 13
+cx 11 13
+rz pi/4 13
+cx 12 13
+rz -pi/4 13
+cx 11 13
+rz pi/4 12
+rz pi/4 13
+cx 11 12
+h 13
+rz pi/4 11
+rz -pi/4 12
+cx 11 12
+h 12
+cx 10 12
+rz -pi/4 12
+cx 9 12
+rz pi/4 12
+cx 10 12
+rz -pi/4 12
+cx 9 12
+rz pi/4 10
+rz pi/4 12
+cx 9 10
+h 12
+rz pi/4 9
+rz -pi/4 10
+cx 9 10
+rz -pi/1024 9
+cx 9 0
+rz pi/1024 0
+cx 9 0
+rz -pi/1024 0
+rz -pi/512 9
+cx 9 1
+rz pi/512 1
+cx 9 1
+rz -pi/512 1
+rz -pi/256 9
+cx 9 2
+rz pi/256 2
+cx 9 2
+rz -pi/256 2
+rz -pi/128 9
+cx 9 3
+rz pi/128 3
+cx 9 3
+rz -pi/128 3
+rz -pi/64 9
+cx 9 4
+rz pi/64 4
+cx 9 4
+rz -pi/64 4
+rz -pi/32 9
+cx 9 5
+rz pi/32 5
+cx 9 5
+rz -pi/32 5
+rz -pi/16 9
+cx 9 6
+rz pi/16 6
+cx 9 6
+rz -pi/16 6
+rz -pi/8 9
+cx 9 7
+rz pi/8 7
+cx 9 7
+rz -pi/8 7
+rz -pi/4 9
+cx 9 8
+rz pi/4 8
+cx 9 8
+rz -pi/4 8
+rz -pi/512 8
+cx 8 0
+rz pi/512 0
+cx 8 0
+rz -pi/512 0
+rz -pi/256 8
+cx 8 1
+rz pi/256 1
+cx 8 1
+rz -pi/256 1
+rz -pi/128 8
+cx 8 2
+rz pi/128 2
+cx 8 2
+rz -pi/128 2
+rz -pi/64 8
+cx 8 3
+rz pi/64 3
+cx 8 3
+rz -pi/64 3
+rz -pi/32 8
+cx 8 4
+rz pi/32 4
+cx 8 4
+rz -pi/32 4
+rz -pi/16 8
+cx 8 5
+rz pi/16 5
+cx 8 5
+rz -pi/16 5
+rz -pi/8 8
+cx 8 6
+rz pi/8 6
+cx 8 6
+rz -pi/8 6
+rz -pi/4 8
+cx 8 7
+rz pi/4 7
+cx 8 7
+rz -pi/4 7
+rz -pi/256 7
+cx 7 0
+rz pi/256 0
+cx 7 0
+rz -pi/256 0
+rz -pi/128 7
+cx 7 1
+rz pi/128 1
+cx 7 1
+rz -pi/128 1
+rz -pi/64 7
+cx 7 2
+rz pi/64 2
+cx 7 2
+rz -pi/64 2
+rz -pi/32 7
+cx 7 3
+rz pi/32 3
+cx 7 3
+rz -pi/32 3
+rz -pi/16 7
+cx 7 4
+rz pi/16 4
+cx 7 4
+rz -pi/16 4
+rz -pi/8 7
+cx 7 5
+rz pi/8 5
+cx 7 5
+rz -pi/8 5
+rz -pi/4 7
+cx 7 6
+rz pi/4 6
+cx 7 6
+rz -pi/4 6
+rz -pi/128 6
+cx 6 0
+rz pi/128 0
+cx 6 0
+rz -pi/128 0
+rz -pi/64 6
+cx 6 1
+rz pi/64 1
+cx 6 1
+rz -pi/64 1
+rz -pi/32 6
+cx 6 2
+rz pi/32 2
+cx 6 2
+rz -pi/32 2
+rz -pi/16 6
+cx 6 3
+rz pi/16 3
+cx 6 3
+rz -pi/16 3
+rz -pi/8 6
+cx 6 4
+rz pi/8 4
+cx 6 4
+rz -pi/8 4
+rz -pi/4 6
+cx 6 5
+rz pi/4 5
+cx 6 5
+rz -pi/4 5
+rz -pi/64 5
+cx 5 0
+rz pi/64 0
+cx 5 0
+rz -pi/64 0
+rz -pi/32 5
+cx 5 1
+rz pi/32 1
+cx 5 1
+rz -pi/32 1
+rz -pi/16 5
+cx 5 2
+rz pi/16 2
+cx 5 2
+rz -pi/16 2
+rz -pi/8 5
+cx 5 3
+rz pi/8 3
+cx 5 3
+rz -pi/8 3
+rz -pi/4 5
+cx 5 4
+rz pi/4 4
+cx 5 4
+rz -pi/4 4
+rz -pi/32 4
+cx 4 0
+rz pi/32 0
+cx 4 0
+rz -pi/32 0
+rz -pi/16 4
+cx 4 1
+rz pi/16 1
+cx 4 1
+rz -pi/16 1
+rz -pi/8 4
+cx 4 2
+rz pi/8 2
+cx 4 2
+rz -pi/8 2
+rz -pi/4 4
+cx 4 3
+rz pi/4 3
+cx 4 3
+rz -pi/4 3
+rz -pi/16 3
+cx 3 0
+rz pi/16 0
+cx 3 0
+rz -pi/16 0
+rz -pi/8 3
+cx 3 1
+rz pi/8 1
+cx 3 1
+rz -pi/8 1
+rz -pi/4 3
+cx 3 2
+rz pi/4 2
+cx 3 2
+rz -pi/4 2
+rz -pi/8 2
+cx 2 0
+rz pi/8 0
+cx 2 0
+rz -pi/8 0
+rz -pi/4 2
+cx 2 1
+rz pi/4 1
+cx 2 1
+rz -pi/4 1
+rz -pi/4 1
+cx 1 0
+rz pi/4 0
+cx 1 0
+rz -pi/4 0
+h 0
+h 1
+h 2
+h 3
+h 4
+h 5
+h 6
+h 7
+h 8
+h 9
+measure 0
+measure 1
+measure 2
+measure 3
+measure 4
+measure 5
+measure 6
+measure 7
+measure 8
+measure 9

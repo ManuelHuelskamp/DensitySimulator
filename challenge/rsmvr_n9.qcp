@@ -1,0 +1,55 @@
+9
+h 0
+h 1
+h 2
+h 3
+h 4
+h 5
+h 6
+h 7
+h 8
+cx 1 6
+x 0
+x 4
+x 8
+z 3
+z 7
+y 2
+cx 4 6
+cx 7 8
+rx pi/34 0
+ry pi/13 2
+x 1
+x 4
+ry -pi/13 2
+h 8
+z 8
+h 8
+rx -pi/34 0
+y 2
+cx 7 8
+x 1
+z 3
+rz pi/4 3
+x 0
+cx 1 5
+rz -pi/4 3
+z 7
+h 0
+h 1
+h 2
+h 3
+h 4
+h 5
+h 6
+h 7
+h 8
+measure 0
+measure 1
+measure 2
+measure 3
+measure 4
+measure 5
+measure 6
+measure 7
+measure 8

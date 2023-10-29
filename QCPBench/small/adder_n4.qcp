@@ -1,0 +1,29 @@
+//q: 0, 1, 2, 3, 
+4
+x 0
+x 1
+h 3
+cx 2 3
+rz pi/4 0
+rz pi/4 1
+rz pi/4 2
+rz -pi/4 3
+cx 0 1
+cx 2 3
+cx 3 0
+cx 1 2
+cx 0 1
+cx 2 3
+rz -pi/4 0
+rz -pi/4 1
+rz -pi/4 2
+rz pi/4 3
+cx 0 1
+cx 2 3
+rz pi/2 3
+cx 3 0
+h 3
+measure 0
+measure 1
+measure 2
+measure 3

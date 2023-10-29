@@ -1,0 +1,2284 @@
+//reg: 0, 1, 2, 3, 4, 5, 
+6
+h 3
+h 2
+h 0
+h 0
+cx 3 2
+cx 2 1
+cx 1 0
+rz 4.63877 0
+cx 1 0
+cx 2 1
+cx 3 2
+h 3
+h 2
+h 0
+h 0
+y 3
+y 2
+y 0
+y 0
+cx 3 2
+cx 2 1
+cx 1 0
+rz 4.63877 0
+cx 1 0
+cx 2 1
+cx 3 2
+y 3
+y 2
+y 0
+y 0
+h 3
+y 2
+h 0
+y 0
+cx 3 2
+cx 2 1
+cx 1 0
+rz 4.63877 0
+cx 1 0
+cx 2 1
+cx 3 2
+h 3
+y 2
+h 0
+y 0
+y 3
+h 2
+y 0
+h 0
+cx 3 2
+cx 2 1
+cx 1 0
+rz 4.63877 0
+cx 1 0
+cx 2 1
+cx 3 2
+y 3
+h 2
+y 0
+h 0
+y 3
+y 2
+h 0
+h 0
+cx 3 2
+cx 2 1
+cx 1 0
+rz 4.63877 0
+cx 1 0
+cx 2 1
+cx 3 2
+y 3
+y 2
+h 0
+h 0
+h 3
+h 2
+y 0
+y 0
+cx 3 2
+cx 2 1
+cx 1 0
+rz 4.63877 0
+cx 1 0
+cx 2 1
+cx 3 2
+h 3
+h 2
+y 0
+y 0
+y 3
+h 2
+h 0
+y 0
+cx 3 2
+cx 2 1
+cx 1 0
+rz 4.63877 0
+cx 1 0
+cx 2 1
+cx 3 2
+y 3
+h 2
+h 0
+y 0
+h 3
+y 2
+y 0
+h 0
+cx 3 2
+cx 2 1
+cx 1 0
+rz 4.63877 0
+cx 1 0
+cx 2 1
+cx 3 2
+h 3
+y 2
+y 0
+h 0
+h 4
+h 2
+h 0
+h 0
+cx 4 3
+cx 3 2
+cx 2 1
+cx 1 0
+rz 5.57054 0
+cx 1 0
+cx 2 1
+cx 3 2
+cx 4 3
+h 4
+h 2
+h 0
+h 0
+y 4
+y 2
+y 0
+y 0
+cx 4 3
+cx 3 2
+cx 2 1
+cx 1 0
+rz 5.57054 0
+cx 1 0
+cx 2 1
+cx 3 2
+cx 4 3
+y 4
+y 2
+y 0
+y 0
+h 4
+y 2
+h 0
+y 0
+cx 4 3
+cx 3 2
+cx 2 1
+cx 1 0
+rz 5.57054 0
+cx 1 0
+cx 2 1
+cx 3 2
+cx 4 3
+h 4
+y 2
+h 0
+y 0
+y 4
+h 2
+y 0
+h 0
+cx 4 3
+cx 3 2
+cx 2 1
+cx 1 0
+rz 5.57054 0
+cx 1 0
+cx 2 1
+cx 3 2
+cx 4 3
+y 4
+h 2
+y 0
+h 0
+y 4
+y 2
+h 0
+h 0
+cx 4 3
+cx 3 2
+cx 2 1
+cx 1 0
+rz 5.57054 0
+cx 1 0
+cx 2 1
+cx 3 2
+cx 4 3
+y 4
+y 2
+h 0
+h 0
+h 4
+h 2
+y 0
+y 0
+cx 4 3
+cx 3 2
+cx 2 1
+cx 1 0
+rz 5.57054 0
+cx 1 0
+cx 2 1
+cx 3 2
+cx 4 3
+h 4
+h 2
+y 0
+y 0
+y 4
+h 2
+h 0
+y 0
+cx 4 3
+cx 3 2
+cx 2 1
+cx 1 0
+rz 5.57054 0
+cx 1 0
+cx 2 1
+cx 3 2
+cx 4 3
+y 4
+h 2
+h 0
+y 0
+h 4
+y 2
+y 0
+h 0
+cx 4 3
+cx 3 2
+cx 2 1
+cx 1 0
+rz 5.57054 0
+cx 1 0
+cx 2 1
+cx 3 2
+cx 4 3
+h 4
+y 2
+y 0
+h 0
+h 4
+h 3
+h 0
+h 0
+cx 4 3
+cx 3 1
+cx 1 0
+rz 5.66395 0
+cx 1 0
+cx 3 1
+cx 4 3
+h 4
+h 3
+h 0
+h 0
+y 4
+y 3
+y 0
+y 0
+cx 4 3
+cx 3 1
+cx 1 0
+rz 5.66395 0
+cx 1 0
+cx 3 1
+cx 4 3
+y 4
+y 3
+y 0
+y 0
+h 4
+y 3
+h 0
+y 0
+cx 4 3
+cx 3 1
+cx 1 0
+rz 5.66395 0
+cx 1 0
+cx 3 1
+cx 4 3
+h 4
+y 3
+h 0
+y 0
+y 4
+h 3
+y 0
+h 0
+cx 4 3
+cx 3 1
+cx 1 0
+rz 5.66395 0
+cx 1 0
+cx 3 1
+cx 4 3
+y 4
+h 3
+y 0
+h 0
+y 4
+y 3
+h 0
+h 0
+cx 4 3
+cx 3 1
+cx 1 0
+rz 5.66395 0
+cx 1 0
+cx 3 1
+cx 4 3
+y 4
+y 3
+h 0
+h 0
+h 4
+h 3
+y 0
+y 0
+cx 4 3
+cx 3 1
+cx 1 0
+rz 5.66395 0
+cx 1 0
+cx 3 1
+cx 4 3
+h 4
+h 3
+y 0
+y 0
+y 4
+h 3
+h 0
+y 0
+cx 4 3
+cx 3 1
+cx 1 0
+rz 5.66395 0
+cx 1 0
+cx 3 1
+cx 4 3
+y 4
+h 3
+h 0
+y 0
+h 4
+y 3
+y 0
+h 0
+cx 4 3
+cx 3 1
+cx 1 0
+rz 5.66395 0
+cx 1 0
+cx 3 1
+cx 4 3
+h 4
+y 3
+y 0
+h 0
+h 4
+h 3
+h 0
+h 0
+cx 4 3
+cx 3 2
+cx 2 1
+cx 1 0
+rz 5.53007 0
+cx 1 0
+cx 2 1
+cx 3 2
+cx 4 3
+h 4
+h 3
+h 0
+h 0
+y 4
+y 3
+y 0
+y 0
+cx 4 3
+cx 3 2
+cx 2 1
+cx 1 0
+rz 5.53007 0
+cx 1 0
+cx 2 1
+cx 3 2
+cx 4 3
+y 4
+y 3
+y 0
+y 0
+h 4
+y 3
+h 0
+y 0
+cx 4 3
+cx 3 2
+cx 2 1
+cx 1 0
+rz 5.53007 0
+cx 1 0
+cx 2 1
+cx 3 2
+cx 4 3
+h 4
+y 3
+h 0
+y 0
+y 4
+h 3
+y 0
+h 0
+cx 4 3
+cx 3 2
+cx 2 1
+cx 1 0
+rz 5.53007 0
+cx 1 0
+cx 2 1
+cx 3 2
+cx 4 3
+y 4
+h 3
+y 0
+h 0
+y 4
+y 3
+h 0
+h 0
+cx 4 3
+cx 3 2
+cx 2 1
+cx 1 0
+rz 5.53007 0
+cx 1 0
+cx 2 1
+cx 3 2
+cx 4 3
+y 4
+y 3
+h 0
+h 0
+h 4
+h 3
+y 0
+y 0
+cx 4 3
+cx 3 2
+cx 2 1
+cx 1 0
+rz 5.53007 0
+cx 1 0
+cx 2 1
+cx 3 2
+cx 4 3
+h 4
+h 3
+y 0
+y 0
+y 4
+h 3
+h 0
+y 0
+cx 4 3
+cx 3 2
+cx 2 1
+cx 1 0
+rz 5.53007 0
+cx 1 0
+cx 2 1
+cx 3 2
+cx 4 3
+y 4
+h 3
+h 0
+y 0
+h 4
+y 3
+y 0
+h 0
+cx 4 3
+cx 3 2
+cx 2 1
+cx 1 0
+rz 5.53007 0
+cx 1 0
+cx 2 1
+cx 3 2
+cx 4 3
+h 4
+y 3
+y 0
+h 0
+h 4
+h 3
+h 1
+h 1
+cx 4 3
+cx 3 2
+cx 2 1
+rz 2.0091 1
+cx 2 1
+cx 3 2
+cx 4 3
+h 4
+h 3
+h 1
+h 1
+y 4
+y 3
+y 1
+y 1
+cx 4 3
+cx 3 2
+cx 2 1
+rz 2.0091 1
+cx 2 1
+cx 3 2
+cx 4 3
+y 4
+y 3
+y 1
+y 1
+h 4
+y 3
+h 1
+y 1
+cx 4 3
+cx 3 2
+cx 2 1
+rz 2.0091 1
+cx 2 1
+cx 3 2
+cx 4 3
+h 4
+y 3
+h 1
+y 1
+y 4
+h 3
+y 1
+h 1
+cx 4 3
+cx 3 2
+cx 2 1
+rz 2.0091 1
+cx 2 1
+cx 3 2
+cx 4 3
+y 4
+h 3
+y 1
+h 1
+y 4
+y 3
+h 1
+h 1
+cx 4 3
+cx 3 2
+cx 2 1
+rz 2.0091 1
+cx 2 1
+cx 3 2
+cx 4 3
+y 4
+y 3
+h 1
+h 1
+h 4
+h 3
+y 1
+y 1
+cx 4 3
+cx 3 2
+cx 2 1
+rz 2.0091 1
+cx 2 1
+cx 3 2
+cx 4 3
+h 4
+h 3
+y 1
+y 1
+y 4
+h 3
+h 1
+y 1
+cx 4 3
+cx 3 2
+cx 2 1
+rz 2.0091 1
+cx 2 1
+cx 3 2
+cx 4 3
+y 4
+h 3
+h 1
+y 1
+h 4
+y 3
+y 1
+h 1
+cx 4 3
+cx 3 2
+cx 2 1
+rz 2.0091 1
+cx 2 1
+cx 3 2
+cx 4 3
+h 4
+y 3
+y 1
+h 1
+h 5
+h 2
+h 0
+h 0
+cx 5 4
+cx 4 3
+cx 3 2
+cx 2 1
+cx 1 0
+rz 2.14087 0
+cx 1 0
+cx 2 1
+cx 3 2
+cx 4 3
+cx 5 4
+h 5
+h 2
+h 0
+h 0
+y 5
+y 2
+y 0
+y 0
+cx 5 4
+cx 4 3
+cx 3 2
+cx 2 1
+cx 1 0
+rz 2.14087 0
+cx 1 0
+cx 2 1
+cx 3 2
+cx 4 3
+cx 5 4
+y 5
+y 2
+y 0
+y 0
+h 5
+y 2
+h 0
+y 0
+cx 5 4
+cx 4 3
+cx 3 2
+cx 2 1
+cx 1 0
+rz 2.14087 0
+cx 1 0
+cx 2 1
+cx 3 2
+cx 4 3
+cx 5 4
+h 5
+y 2
+h 0
+y 0
+y 5
+h 2
+y 0
+h 0
+cx 5 4
+cx 4 3
+cx 3 2
+cx 2 1
+cx 1 0
+rz 2.14087 0
+cx 1 0
+cx 2 1
+cx 3 2
+cx 4 3
+cx 5 4
+y 5
+h 2
+y 0
+h 0
+y 5
+y 2
+h 0
+h 0
+cx 5 4
+cx 4 3
+cx 3 2
+cx 2 1
+cx 1 0
+rz 2.14087 0
+cx 1 0
+cx 2 1
+cx 3 2
+cx 4 3
+cx 5 4
+y 5
+y 2
+h 0
+h 0
+h 5
+h 2
+y 0
+y 0
+cx 5 4
+cx 4 3
+cx 3 2
+cx 2 1
+cx 1 0
+rz 2.14087 0
+cx 1 0
+cx 2 1
+cx 3 2
+cx 4 3
+cx 5 4
+h 5
+h 2
+y 0
+y 0
+y 5
+h 2
+h 0
+y 0
+cx 5 4
+cx 4 3
+cx 3 2
+cx 2 1
+cx 1 0
+rz 2.14087 0
+cx 1 0
+cx 2 1
+cx 3 2
+cx 4 3
+cx 5 4
+y 5
+h 2
+h 0
+y 0
+h 5
+y 2
+y 0
+h 0
+cx 5 4
+cx 4 3
+cx 3 2
+cx 2 1
+cx 1 0
+rz 2.14087 0
+cx 1 0
+cx 2 1
+cx 3 2
+cx 4 3
+cx 5 4
+h 5
+y 2
+y 0
+h 0
+h 5
+h 3
+h 0
+h 0
+cx 5 4
+cx 4 3
+cx 3 1
+cx 1 0
+rz 1.84712 0
+cx 1 0
+cx 3 1
+cx 4 3
+cx 5 4
+h 5
+h 3
+h 0
+h 0
+y 5
+y 3
+y 0
+y 0
+cx 5 4
+cx 4 3
+cx 3 1
+cx 1 0
+rz 1.84712 0
+cx 1 0
+cx 3 1
+cx 4 3
+cx 5 4
+y 5
+y 3
+y 0
+y 0
+h 5
+y 3
+h 0
+y 0
+cx 5 4
+cx 4 3
+cx 3 1
+cx 1 0
+rz 1.84712 0
+cx 1 0
+cx 3 1
+cx 4 3
+cx 5 4
+h 5
+y 3
+h 0
+y 0
+y 5
+h 3
+y 0
+h 0
+cx 5 4
+cx 4 3
+cx 3 1
+cx 1 0
+rz 1.84712 0
+cx 1 0
+cx 3 1
+cx 4 3
+cx 5 4
+y 5
+h 3
+y 0
+h 0
+y 5
+y 3
+h 0
+h 0
+cx 5 4
+cx 4 3
+cx 3 1
+cx 1 0
+rz 1.84712 0
+cx 1 0
+cx 3 1
+cx 4 3
+cx 5 4
+y 5
+y 3
+h 0
+h 0
+h 5
+h 3
+y 0
+y 0
+cx 5 4
+cx 4 3
+cx 3 1
+cx 1 0
+rz 1.84712 0
+cx 1 0
+cx 3 1
+cx 4 3
+cx 5 4
+h 5
+h 3
+y 0
+y 0
+y 5
+h 3
+h 0
+y 0
+cx 5 4
+cx 4 3
+cx 3 1
+cx 1 0
+rz 1.84712 0
+cx 1 0
+cx 3 1
+cx 4 3
+cx 5 4
+y 5
+h 3
+h 0
+y 0
+h 5
+y 3
+y 0
+h 0
+cx 5 4
+cx 4 3
+cx 3 1
+cx 1 0
+rz 1.84712 0
+cx 1 0
+cx 3 1
+cx 4 3
+cx 5 4
+h 5
+y 3
+y 0
+h 0
+h 5
+h 3
+h 0
+h 0
+cx 5 4
+cx 4 3
+cx 3 2
+cx 2 1
+cx 1 0
+rz 5.88289 0
+cx 1 0
+cx 2 1
+cx 3 2
+cx 4 3
+cx 5 4
+h 5
+h 3
+h 0
+h 0
+y 5
+y 3
+y 0
+y 0
+cx 5 4
+cx 4 3
+cx 3 2
+cx 2 1
+cx 1 0
+rz 5.88289 0
+cx 1 0
+cx 2 1
+cx 3 2
+cx 4 3
+cx 5 4
+y 5
+y 3
+y 0
+y 0
+h 5
+y 3
+h 0
+y 0
+cx 5 4
+cx 4 3
+cx 3 2
+cx 2 1
+cx 1 0
+rz 5.88289 0
+cx 1 0
+cx 2 1
+cx 3 2
+cx 4 3
+cx 5 4
+h 5
+y 3
+h 0
+y 0
+y 5
+h 3
+y 0
+h 0
+cx 5 4
+cx 4 3
+cx 3 2
+cx 2 1
+cx 1 0
+rz 5.88289 0
+cx 1 0
+cx 2 1
+cx 3 2
+cx 4 3
+cx 5 4
+y 5
+h 3
+y 0
+h 0
+y 5
+y 3
+h 0
+h 0
+cx 5 4
+cx 4 3
+cx 3 2
+cx 2 1
+cx 1 0
+rz 5.88289 0
+cx 1 0
+cx 2 1
+cx 3 2
+cx 4 3
+cx 5 4
+y 5
+y 3
+h 0
+h 0
+h 5
+h 3
+y 0
+y 0
+cx 5 4
+cx 4 3
+cx 3 2
+cx 2 1
+cx 1 0
+rz 5.88289 0
+cx 1 0
+cx 2 1
+cx 3 2
+cx 4 3
+cx 5 4
+h 5
+h 3
+y 0
+y 0
+y 5
+h 3
+h 0
+y 0
+cx 5 4
+cx 4 3
+cx 3 2
+cx 2 1
+cx 1 0
+rz 5.88289 0
+cx 1 0
+cx 2 1
+cx 3 2
+cx 4 3
+cx 5 4
+y 5
+h 3
+h 0
+y 0
+h 5
+y 3
+y 0
+h 0
+cx 5 4
+cx 4 3
+cx 3 2
+cx 2 1
+cx 1 0
+rz 5.88289 0
+cx 1 0
+cx 2 1
+cx 3 2
+cx 4 3
+cx 5 4
+h 5
+y 3
+y 0
+h 0
+h 5
+h 3
+h 1
+h 1
+cx 5 4
+cx 4 3
+cx 3 2
+cx 2 1
+rz 5.28515 1
+cx 2 1
+cx 3 2
+cx 4 3
+cx 5 4
+h 5
+h 3
+h 1
+h 1
+y 5
+y 3
+y 1
+y 1
+cx 5 4
+cx 4 3
+cx 3 2
+cx 2 1
+rz 5.28515 1
+cx 2 1
+cx 3 2
+cx 4 3
+cx 5 4
+y 5
+y 3
+y 1
+y 1
+h 5
+y 3
+h 1
+y 1
+cx 5 4
+cx 4 3
+cx 3 2
+cx 2 1
+rz 5.28515 1
+cx 2 1
+cx 3 2
+cx 4 3
+cx 5 4
+h 5
+y 3
+h 1
+y 1
+y 5
+h 3
+y 1
+h 1
+cx 5 4
+cx 4 3
+cx 3 2
+cx 2 1
+rz 5.28515 1
+cx 2 1
+cx 3 2
+cx 4 3
+cx 5 4
+y 5
+h 3
+y 1
+h 1
+y 5
+y 3
+h 1
+h 1
+cx 5 4
+cx 4 3
+cx 3 2
+cx 2 1
+rz 5.28515 1
+cx 2 1
+cx 3 2
+cx 4 3
+cx 5 4
+y 5
+y 3
+h 1
+h 1
+h 5
+h 3
+y 1
+y 1
+cx 5 4
+cx 4 3
+cx 3 2
+cx 2 1
+rz 5.28515 1
+cx 2 1
+cx 3 2
+cx 4 3
+cx 5 4
+h 5
+h 3
+y 1
+y 1
+y 5
+h 3
+h 1
+y 1
+cx 5 4
+cx 4 3
+cx 3 2
+cx 2 1
+rz 5.28515 1
+cx 2 1
+cx 3 2
+cx 4 3
+cx 5 4
+y 5
+h 3
+h 1
+y 1
+h 5
+y 3
+y 1
+h 1
+cx 5 4
+cx 4 3
+cx 3 2
+cx 2 1
+rz 5.28515 1
+cx 2 1
+cx 3 2
+cx 4 3
+cx 5 4
+h 5
+y 3
+y 1
+h 1
+h 5
+h 4
+h 0
+h 0
+cx 5 4
+cx 4 1
+cx 1 0
+rz 1.67172 0
+cx 1 0
+cx 4 1
+cx 5 4
+h 5
+h 4
+h 0
+h 0
+y 5
+y 4
+y 0
+y 0
+cx 5 4
+cx 4 1
+cx 1 0
+rz 1.67172 0
+cx 1 0
+cx 4 1
+cx 5 4
+y 5
+y 4
+y 0
+y 0
+h 5
+y 4
+h 0
+y 0
+cx 5 4
+cx 4 1
+cx 1 0
+rz 1.67172 0
+cx 1 0
+cx 4 1
+cx 5 4
+h 5
+y 4
+h 0
+y 0
+y 5
+h 4
+y 0
+h 0
+cx 5 4
+cx 4 1
+cx 1 0
+rz 1.67172 0
+cx 1 0
+cx 4 1
+cx 5 4
+y 5
+h 4
+y 0
+h 0
+y 5
+y 4
+h 0
+h 0
+cx 5 4
+cx 4 1
+cx 1 0
+rz 1.67172 0
+cx 1 0
+cx 4 1
+cx 5 4
+y 5
+y 4
+h 0
+h 0
+h 5
+h 4
+y 0
+y 0
+cx 5 4
+cx 4 1
+cx 1 0
+rz 1.67172 0
+cx 1 0
+cx 4 1
+cx 5 4
+h 5
+h 4
+y 0
+y 0
+y 5
+h 4
+h 0
+y 0
+cx 5 4
+cx 4 1
+cx 1 0
+rz 1.67172 0
+cx 1 0
+cx 4 1
+cx 5 4
+y 5
+h 4
+h 0
+y 0
+h 5
+y 4
+y 0
+h 0
+cx 5 4
+cx 4 1
+cx 1 0
+rz 1.67172 0
+cx 1 0
+cx 4 1
+cx 5 4
+h 5
+y 4
+y 0
+h 0
+h 5
+h 4
+h 0
+h 0
+cx 5 4
+cx 4 2
+cx 2 1
+cx 1 0
+rz 3.02811 0
+cx 1 0
+cx 2 1
+cx 4 2
+cx 5 4
+h 5
+h 4
+h 0
+h 0
+y 5
+y 4
+y 0
+y 0
+cx 5 4
+cx 4 2
+cx 2 1
+cx 1 0
+rz 3.02811 0
+cx 1 0
+cx 2 1
+cx 4 2
+cx 5 4
+y 5
+y 4
+y 0
+y 0
+h 5
+y 4
+h 0
+y 0
+cx 5 4
+cx 4 2
+cx 2 1
+cx 1 0
+rz 3.02811 0
+cx 1 0
+cx 2 1
+cx 4 2
+cx 5 4
+h 5
+y 4
+h 0
+y 0
+y 5
+h 4
+y 0
+h 0
+cx 5 4
+cx 4 2
+cx 2 1
+cx 1 0
+rz 3.02811 0
+cx 1 0
+cx 2 1
+cx 4 2
+cx 5 4
+y 5
+h 4
+y 0
+h 0
+y 5
+y 4
+h 0
+h 0
+cx 5 4
+cx 4 2
+cx 2 1
+cx 1 0
+rz 3.02811 0
+cx 1 0
+cx 2 1
+cx 4 2
+cx 5 4
+y 5
+y 4
+h 0
+h 0
+h 5
+h 4
+y 0
+y 0
+cx 5 4
+cx 4 2
+cx 2 1
+cx 1 0
+rz 3.02811 0
+cx 1 0
+cx 2 1
+cx 4 2
+cx 5 4
+h 5
+h 4
+y 0
+y 0
+y 5
+h 4
+h 0
+y 0
+cx 5 4
+cx 4 2
+cx 2 1
+cx 1 0
+rz 3.02811 0
+cx 1 0
+cx 2 1
+cx 4 2
+cx 5 4
+y 5
+h 4
+h 0
+y 0
+h 5
+y 4
+y 0
+h 0
+cx 5 4
+cx 4 2
+cx 2 1
+cx 1 0
+rz 3.02811 0
+cx 1 0
+cx 2 1
+cx 4 2
+cx 5 4
+h 5
+y 4
+y 0
+h 0
+h 5
+h 4
+h 1
+h 1
+cx 5 4
+cx 4 2
+cx 2 1
+rz 1.39888 1
+cx 2 1
+cx 4 2
+cx 5 4
+h 5
+h 4
+h 1
+h 1
+y 5
+y 4
+y 1
+y 1
+cx 5 4
+cx 4 2
+cx 2 1
+rz 1.39888 1
+cx 2 1
+cx 4 2
+cx 5 4
+y 5
+y 4
+y 1
+y 1
+h 5
+y 4
+h 1
+y 1
+cx 5 4
+cx 4 2
+cx 2 1
+rz 1.39888 1
+cx 2 1
+cx 4 2
+cx 5 4
+h 5
+y 4
+h 1
+y 1
+y 5
+h 4
+y 1
+h 1
+cx 5 4
+cx 4 2
+cx 2 1
+rz 1.39888 1
+cx 2 1
+cx 4 2
+cx 5 4
+y 5
+h 4
+y 1
+h 1
+y 5
+y 4
+h 1
+h 1
+cx 5 4
+cx 4 2
+cx 2 1
+rz 1.39888 1
+cx 2 1
+cx 4 2
+cx 5 4
+y 5
+y 4
+h 1
+h 1
+h 5
+h 4
+y 1
+y 1
+cx 5 4
+cx 4 2
+cx 2 1
+rz 1.39888 1
+cx 2 1
+cx 4 2
+cx 5 4
+h 5
+h 4
+y 1
+y 1
+y 5
+h 4
+h 1
+y 1
+cx 5 4
+cx 4 2
+cx 2 1
+rz 1.39888 1
+cx 2 1
+cx 4 2
+cx 5 4
+y 5
+h 4
+h 1
+y 1
+h 5
+y 4
+y 1
+h 1
+cx 5 4
+cx 4 2
+cx 2 1
+rz 1.39888 1
+cx 2 1
+cx 4 2
+cx 5 4
+h 5
+y 4
+y 1
+h 1
+h 5
+h 4
+h 0
+h 0
+cx 5 4
+cx 4 3
+cx 3 2
+cx 2 1
+cx 1 0
+rz 5.6224 0
+cx 1 0
+cx 2 1
+cx 3 2
+cx 4 3
+cx 5 4
+h 5
+h 4
+h 0
+h 0
+y 5
+y 4
+y 0
+y 0
+cx 5 4
+cx 4 3
+cx 3 2
+cx 2 1
+cx 1 0
+rz 5.6224 0
+cx 1 0
+cx 2 1
+cx 3 2
+cx 4 3
+cx 5 4
+y 5
+y 4
+y 0
+y 0
+h 5
+y 4
+h 0
+y 0
+cx 5 4
+cx 4 3
+cx 3 2
+cx 2 1
+cx 1 0
+rz 5.6224 0
+cx 1 0
+cx 2 1
+cx 3 2
+cx 4 3
+cx 5 4
+h 5
+y 4
+h 0
+y 0
+y 5
+h 4
+y 0
+h 0
+cx 5 4
+cx 4 3
+cx 3 2
+cx 2 1
+cx 1 0
+rz 5.6224 0
+cx 1 0
+cx 2 1
+cx 3 2
+cx 4 3
+cx 5 4
+y 5
+h 4
+y 0
+h 0
+y 5
+y 4
+h 0
+h 0
+cx 5 4
+cx 4 3
+cx 3 2
+cx 2 1
+cx 1 0
+rz 5.6224 0
+cx 1 0
+cx 2 1
+cx 3 2
+cx 4 3
+cx 5 4
+y 5
+y 4
+h 0
+h 0
+h 5
+h 4
+y 0
+y 0
+cx 5 4
+cx 4 3
+cx 3 2
+cx 2 1
+cx 1 0
+rz 5.6224 0
+cx 1 0
+cx 2 1
+cx 3 2
+cx 4 3
+cx 5 4
+h 5
+h 4
+y 0
+y 0
+y 5
+h 4
+h 0
+y 0
+cx 5 4
+cx 4 3
+cx 3 2
+cx 2 1
+cx 1 0
+rz 5.6224 0
+cx 1 0
+cx 2 1
+cx 3 2
+cx 4 3
+cx 5 4
+y 5
+h 4
+h 0
+y 0
+h 5
+y 4
+y 0
+h 0
+cx 5 4
+cx 4 3
+cx 3 2
+cx 2 1
+cx 1 0
+rz 5.6224 0
+cx 1 0
+cx 2 1
+cx 3 2
+cx 4 3
+cx 5 4
+h 5
+y 4
+y 0
+h 0
+h 5
+h 4
+h 1
+h 1
+cx 5 4
+cx 4 3
+cx 3 2
+cx 2 1
+rz 1.67439 1
+cx 2 1
+cx 3 2
+cx 4 3
+cx 5 4
+h 5
+h 4
+h 1
+h 1
+y 5
+y 4
+y 1
+y 1
+cx 5 4
+cx 4 3
+cx 3 2
+cx 2 1
+rz 1.67439 1
+cx 2 1
+cx 3 2
+cx 4 3
+cx 5 4
+y 5
+y 4
+y 1
+y 1
+h 5
+y 4
+h 1
+y 1
+cx 5 4
+cx 4 3
+cx 3 2
+cx 2 1
+rz 1.67439 1
+cx 2 1
+cx 3 2
+cx 4 3
+cx 5 4
+h 5
+y 4
+h 1
+y 1
+y 5
+h 4
+y 1
+h 1
+cx 5 4
+cx 4 3
+cx 3 2
+cx 2 1
+rz 1.67439 1
+cx 2 1
+cx 3 2
+cx 4 3
+cx 5 4
+y 5
+h 4
+y 1
+h 1
+y 5
+y 4
+h 1
+h 1
+cx 5 4
+cx 4 3
+cx 3 2
+cx 2 1
+rz 1.67439 1
+cx 2 1
+cx 3 2
+cx 4 3
+cx 5 4
+y 5
+y 4
+h 1
+h 1
+h 5
+h 4
+y 1
+y 1
+cx 5 4
+cx 4 3
+cx 3 2
+cx 2 1
+rz 1.67439 1
+cx 2 1
+cx 3 2
+cx 4 3
+cx 5 4
+h 5
+h 4
+y 1
+y 1
+y 5
+h 4
+h 1
+y 1
+cx 5 4
+cx 4 3
+cx 3 2
+cx 2 1
+rz 1.67439 1
+cx 2 1
+cx 3 2
+cx 4 3
+cx 5 4
+y 5
+h 4
+h 1
+y 1
+h 5
+y 4
+y 1
+h 1
+cx 5 4
+cx 4 3
+cx 3 2
+cx 2 1
+rz 1.67439 1
+cx 2 1
+cx 3 2
+cx 4 3
+cx 5 4
+h 5
+y 4
+y 1
+h 1
+h 5
+h 4
+h 2
+h 2
+cx 5 4
+cx 4 3
+cx 3 2
+rz 2.69399 2
+cx 3 2
+cx 4 3
+cx 5 4
+h 5
+h 4
+h 2
+h 2
+y 5
+y 4
+y 2
+y 2
+cx 5 4
+cx 4 3
+cx 3 2
+rz 2.69399 2
+cx 3 2
+cx 4 3
+cx 5 4
+y 5
+y 4
+y 2
+y 2
+h 5
+y 4
+h 2
+y 2
+cx 5 4
+cx 4 3
+cx 3 2
+rz 2.69399 2
+cx 3 2
+cx 4 3
+cx 5 4
+h 5
+y 4
+h 2
+y 2
+y 5
+h 4
+y 2
+h 2
+cx 5 4
+cx 4 3
+cx 3 2
+rz 2.69399 2
+cx 3 2
+cx 4 3
+cx 5 4
+y 5
+h 4
+y 2
+h 2
+y 5
+y 4
+h 2
+h 2
+cx 5 4
+cx 4 3
+cx 3 2
+rz 2.69399 2
+cx 3 2
+cx 4 3
+cx 5 4
+y 5
+y 4
+h 2
+h 2
+h 5
+h 4
+y 2
+y 2
+cx 5 4
+cx 4 3
+cx 3 2
+rz 2.69399 2
+cx 3 2
+cx 4 3
+cx 5 4
+h 5
+h 4
+y 2
+y 2
+y 5
+h 4
+h 2
+y 2
+cx 5 4
+cx 4 3
+cx 3 2
+rz 2.69399 2
+cx 3 2
+cx 4 3
+cx 5 4
+y 5
+h 4
+h 2
+y 2
+h 5
+y 4
+y 2
+h 2
+cx 5 4
+cx 4 3
+cx 3 2
+rz 2.69399 2
+cx 3 2
+cx 4 3
+cx 5 4
+h 5
+y 4
+y 2
+h 2
+h 1
+h 0
+cx 1 0
+rz 2.34066 0
+cx 1 0
+h 1
+h 0
+y 1
+y 0
+cx 1 0
+rz 2.34066 0
+cx 1 0
+y 1
+y 0
+h 2
+h 0
+cx 2 1
+cx 1 0
+rz 4.73579 0
+cx 1 0
+cx 2 1
+h 2
+h 0
+y 2
+y 0
+cx 2 1
+cx 1 0
+rz 4.73579 0
+cx 1 0
+cx 2 1
+y 2
+y 0
+h 2
+h 1
+cx 2 1
+rz 3.24729 1
+cx 2 1
+h 2
+h 1
+y 2
+y 1
+cx 2 1
+rz 3.24729 1
+cx 2 1
+y 2
+y 1
+h 3
+h 0
+cx 3 2
+cx 2 1
+cx 1 0
+rz 2.63361 0
+cx 1 0
+cx 2 1
+cx 3 2
+h 3
+h 0
+y 3
+y 0
+cx 3 2
+cx 2 1
+cx 1 0
+rz 2.63361 0
+cx 1 0
+cx 2 1
+cx 3 2
+y 3
+y 0
+h 3
+h 1
+cx 3 2
+cx 2 1
+rz 6.03336 1
+cx 2 1
+cx 3 2
+h 3
+h 1
+y 3
+y 1
+cx 3 2
+cx 2 1
+rz 6.03336 1
+cx 2 1
+cx 3 2
+y 3
+y 1
+h 3
+h 2
+cx 3 2
+rz 1.60638 2
+cx 3 2
+h 3
+h 2
+y 3
+y 2
+cx 3 2
+rz 1.60638 2
+cx 3 2
+y 3
+y 2
+h 4
+h 0
+cx 4 3
+cx 3 2
+cx 2 1
+cx 1 0
+rz 3.42771 0
+cx 1 0
+cx 2 1
+cx 3 2
+cx 4 3
+h 4
+h 0
+y 4
+y 0
+cx 4 3
+cx 3 2
+cx 2 1
+cx 1 0
+rz 3.42771 0
+cx 1 0
+cx 2 1
+cx 3 2
+cx 4 3
+y 4
+y 0
+h 4
+h 1
+cx 4 3
+cx 3 2
+cx 2 1
+rz 3.35379 1
+cx 2 1
+cx 3 2
+cx 4 3
+h 4
+h 1
+y 4
+y 1
+cx 4 3
+cx 3 2
+cx 2 1
+rz 3.35379 1
+cx 2 1
+cx 3 2
+cx 4 3
+y 4
+y 1
+h 4
+h 2
+cx 4 3
+cx 3 2
+rz 5.42819 2
+cx 3 2
+cx 4 3
+h 4
+h 2
+y 4
+y 2
+cx 4 3
+cx 3 2
+rz 5.42819 2
+cx 3 2
+cx 4 3
+y 4
+y 2
+h 4
+h 3
+cx 4 3
+rz 0.853814 3
+cx 4 3
+h 4
+h 3
+y 4
+y 3
+cx 4 3
+rz 0.853814 3
+cx 4 3
+y 4
+y 3
+h 5
+h 0
+cx 5 4
+cx 4 3
+cx 3 2
+cx 2 1
+cx 1 0
+rz 1.09899 0
+cx 1 0
+cx 2 1
+cx 3 2
+cx 4 3
+cx 5 4
+h 5
+h 0
+y 5
+y 0
+cx 5 4
+cx 4 3
+cx 3 2
+cx 2 1
+cx 1 0
+rz 1.09899 0
+cx 1 0
+cx 2 1
+cx 3 2
+cx 4 3
+cx 5 4
+y 5
+y 0
+h 5
+h 1
+cx 5 4
+cx 4 3
+cx 3 2
+cx 2 1
+rz 4.01974 1
+cx 2 1
+cx 3 2
+cx 4 3
+cx 5 4
+h 5
+h 1
+y 5
+y 1
+cx 5 4
+cx 4 3
+cx 3 2
+cx 2 1
+rz 4.01974 1
+cx 2 1
+cx 3 2
+cx 4 3
+cx 5 4
+y 5
+y 1
+h 5
+h 2
+cx 5 4
+cx 4 3
+cx 3 2
+rz 2.68375 2
+cx 3 2
+cx 4 3
+cx 5 4
+h 5
+h 2
+y 5
+y 2
+cx 5 4
+cx 4 3
+cx 3 2
+rz 2.68375 2
+cx 3 2
+cx 4 3
+cx 5 4
+y 5
+y 2
+h 5
+h 3
+cx 5 4
+cx 4 3
+rz 0.679082 3
+cx 4 3
+cx 5 4
+h 5
+h 3
+y 5
+y 3
+cx 5 4
+cx 4 3
+rz 0.679082 3
+cx 4 3
+cx 5 4
+y 5
+y 3
+h 5
+h 4
+cx 5 4
+rz 5.54786 4
+cx 5 4
+h 5
+h 4
+y 5
+y 4
+cx 5 4
+rz 5.54786 4
+cx 5 4
+y 5
+y 4

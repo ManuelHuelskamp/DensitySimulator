@@ -1,0 +1,159 @@
+//q: 0, 1, 2, 3, 
+4
+rz -pi/2 0
+h 0
+rz -pi/2 0
+rz 5.03005 0
+rz -pi/2 0
+h 0
+rz -pi/2 0
+rz 3*pi 0
+rz 2.6152 0
+rz -pi/2 1
+h 1
+rz -pi/2 1
+rz 5.36607 1
+rz -pi/2 1
+h 1
+rz -pi/2 1
+rz 3*pi 1
+rz 0.667083 1
+cx 0 1
+rz -pi/2 0
+h 0
+rz -pi/2 0
+rz 4.0974 0
+rz -pi/2 0
+h 0
+rz -pi/2 0
+rz 3*pi 0
+rz 1.92219 0
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz 3.20626 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz 3*pi 2
+rz 0.57122 2
+cx 1 2
+rz -pi/2 1
+h 1
+rz -pi/2 1
+rz 4.79016 1
+rz -pi/2 1
+h 1
+rz -pi/2 1
+rz 3*pi 1
+rz 0.438233 1
+cx 0 1
+rz -pi/2 0
+h 0
+rz -pi/2 0
+rz 4.57438 0
+rz -pi/2 0
+h 0
+rz -pi/2 0
+rz 3*pi 0
+rz 1.86113 0
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz 6.18865 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz 3*pi 3
+rz 0.576182 3
+cx 2 3
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz 4.49859 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz 3*pi 2
+rz 0.917799 2
+cx 1 2
+rz -pi/2 1
+h 1
+rz -pi/2 1
+rz 5.6083 1
+rz -pi/2 1
+h 1
+rz -pi/2 1
+rz 3*pi 1
+rz 0.145928 1
+cx 0 1
+rz -pi/2 0
+h 0
+rz -pi/2 0
+rz 3.34596 0
+rz -pi/2 0
+h 0
+rz -pi/2 0
+rz 3*pi 0
+rz 0.956972 0
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz 4.05652 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz 3*pi 3
+rz 1.15096 3
+cx 2 3
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz 3.76889 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz 3*pi 2
+rz 1.90866 2
+cx 1 2
+rz -pi/2 1
+h 1
+rz -pi/2 1
+rz 6.1226 1
+rz -pi/2 1
+h 1
+rz -pi/2 1
+rz 3*pi 1
+rz 0.306846 1
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz 4.75711 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz 3*pi 3
+rz 0.535717 3
+cx 2 3
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz 6.17522 2
+rz -pi/2 2
+h 2
+rz -pi/2 2
+rz 3*pi 2
+rz 2.14958 2
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz 5.68125 3
+rz -pi/2 3
+h 3
+rz -pi/2 3
+rz 3*pi 3
+rz 1.38278 3
+measure 0
+measure 1
+measure 2
+measure 3

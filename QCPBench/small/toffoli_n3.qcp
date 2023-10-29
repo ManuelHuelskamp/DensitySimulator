@@ -1,0 +1,23 @@
+//a: 0, 1, 2, 
+3
+x 0
+x 1
+h 2
+cx 1 2
+rz -pi/4 2
+cx 0 2
+rz pi/4 2
+cx 1 2
+rz -pi/4 2
+cx 0 2
+rz -pi/4 1
+rz pi/4 2
+cx 0 1
+h 2
+rz -pi/4 1
+cx 0 1
+rz pi/4 0
+rz pi/2 1
+measure 0
+measure 1
+measure 2

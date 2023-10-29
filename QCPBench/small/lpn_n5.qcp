@@ -1,0 +1,18 @@
+//q: 0, 1, 2, 3, 4, 
+5
+h 0
+h 1
+h 3
+h 4
+cx 3 2
+cx 0 2
+h 0
+h 1
+h 2
+h 3
+h 4
+measure 0
+measure 1
+measure 2
+measure 3
+measure 4

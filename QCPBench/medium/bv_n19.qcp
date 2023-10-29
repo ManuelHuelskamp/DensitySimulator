@@ -1,0 +1,76 @@
+//qr: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 
+19
+h 0
+h 1
+h 2
+h 3
+h 4
+h 5
+h 6
+h 7
+h 8
+h 9
+h 10
+h 11
+h 12
+h 13
+h 14
+h 15
+h 16
+h 17
+x 18
+h 18
+cx 0 18
+cx 1 18
+cx 2 18
+cx 3 18
+cx 4 18
+cx 5 18
+cx 6 18
+cx 7 18
+cx 8 18
+cx 9 18
+cx 10 18
+cx 11 18
+cx 12 18
+cx 13 18
+cx 14 18
+cx 15 18
+cx 16 18
+cx 17 18
+h 0
+h 1
+h 2
+h 3
+h 4
+h 5
+h 6
+h 7
+h 8
+h 9
+h 10
+h 11
+h 12
+h 13
+h 14
+h 15
+h 16
+h 17
+measure 0
+measure 1
+measure 2
+measure 3
+measure 4
+measure 5
+measure 6
+measure 7
+measure 8
+measure 9
+measure 10
+measure 11
+measure 12
+measure 13
+measure 14
+measure 15
+measure 16
+measure 17

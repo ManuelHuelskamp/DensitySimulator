@@ -1,0 +1,993 @@
+//q0: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 
+280
+h 0
+h 1
+h 2
+h 3
+h 4
+h 5
+h 6
+h 7
+h 8
+h 9
+h 10
+h 11
+h 12
+h 13
+h 14
+h 15
+h 16
+h 17
+h 18
+h 19
+h 20
+h 21
+h 22
+h 23
+h 24
+h 25
+h 26
+h 27
+h 28
+h 29
+h 30
+h 31
+h 32
+h 33
+h 34
+h 35
+h 36
+h 37
+h 38
+h 39
+h 40
+h 41
+h 42
+h 43
+h 44
+h 45
+h 46
+h 47
+h 48
+h 49
+h 50
+h 51
+h 52
+h 53
+h 54
+h 55
+h 56
+h 57
+h 58
+h 59
+h 60
+h 61
+h 62
+h 63
+h 64
+h 65
+h 66
+h 67
+h 68
+h 69
+h 70
+h 71
+h 72
+h 73
+h 74
+h 75
+h 76
+h 77
+h 78
+h 79
+h 80
+h 81
+h 82
+h 83
+h 84
+h 85
+h 86
+h 87
+h 88
+h 89
+h 90
+h 91
+h 92
+h 93
+h 94
+h 95
+h 96
+h 97
+h 98
+h 99
+h 100
+h 101
+h 102
+h 103
+h 104
+h 105
+h 106
+h 107
+h 108
+h 109
+h 110
+h 111
+h 112
+h 113
+h 114
+h 115
+h 116
+h 117
+h 118
+h 119
+h 120
+h 121
+h 122
+h 123
+h 124
+h 125
+h 126
+h 127
+h 128
+h 129
+h 130
+h 131
+h 132
+h 133
+h 134
+h 135
+h 136
+h 137
+h 138
+h 139
+h 140
+h 141
+h 142
+h 143
+h 144
+h 145
+h 146
+h 147
+h 148
+h 149
+h 150
+h 151
+h 152
+h 153
+h 154
+h 155
+h 156
+h 157
+h 158
+h 159
+h 160
+h 161
+h 162
+h 163
+h 164
+h 165
+h 166
+h 167
+h 168
+h 169
+h 170
+h 171
+h 172
+h 173
+h 174
+h 175
+h 176
+h 177
+h 178
+h 179
+h 180
+h 181
+h 182
+h 183
+h 184
+h 185
+h 186
+h 187
+h 188
+h 189
+h 190
+h 191
+h 192
+h 193
+h 194
+h 195
+h 196
+h 197
+h 198
+h 199
+h 200
+h 201
+h 202
+h 203
+h 204
+h 205
+h 206
+h 207
+h 208
+h 209
+h 210
+h 211
+h 212
+h 213
+h 214
+h 215
+h 216
+h 217
+h 218
+h 219
+h 220
+h 221
+h 222
+h 223
+h 224
+h 225
+h 226
+h 227
+h 228
+h 229
+h 230
+h 231
+h 232
+h 233
+h 234
+h 235
+h 236
+h 237
+h 238
+h 239
+h 240
+h 241
+h 242
+h 243
+h 244
+h 245
+h 246
+h 247
+h 248
+h 249
+h 250
+h 251
+h 252
+h 253
+h 254
+h 255
+h 256
+h 257
+h 258
+h 259
+h 260
+h 261
+h 262
+h 263
+h 264
+h 265
+h 266
+h 267
+h 268
+h 269
+h 270
+h 271
+h 272
+h 273
+h 274
+h 275
+h 276
+h 277
+h 278
+x 279
+h 279
+cx 1 279
+cx 2 279
+cx 3 279
+cx 4 279
+cx 5 279
+cx 7 279
+cx 9 279
+cx 12 279
+cx 14 279
+cx 15 279
+cx 16 279
+cx 17 279
+cx 19 279
+cx 20 279
+cx 23 279
+cx 25 279
+cx 26 279
+cx 33 279
+cx 36 279
+cx 37 279
+cx 41 279
+cx 43 279
+cx 47 279
+cx 48 279
+cx 51 279
+cx 52 279
+cx 53 279
+cx 56 279
+cx 57 279
+cx 58 279
+cx 60 279
+cx 62 279
+cx 63 279
+cx 67 279
+cx 70 279
+cx 71 279
+cx 73 279
+cx 74 279
+cx 76 279
+cx 78 279
+cx 80 279
+cx 82 279
+cx 83 279
+cx 86 279
+cx 87 279
+cx 88 279
+cx 92 279
+cx 93 279
+cx 94 279
+cx 95 279
+cx 96 279
+cx 98 279
+cx 99 279
+cx 100 279
+cx 102 279
+cx 103 279
+cx 105 279
+cx 106 279
+cx 107 279
+cx 108 279
+cx 110 279
+cx 115 279
+cx 117 279
+cx 118 279
+cx 119 279
+cx 120 279
+cx 121 279
+cx 122 279
+cx 123 279
+cx 126 279
+cx 129 279
+cx 132 279
+cx 138 279
+cx 139 279
+cx 140 279
+cx 141 279
+cx 143 279
+cx 146 279
+cx 152 279
+cx 156 279
+cx 157 279
+cx 158 279
+cx 159 279
+cx 160 279
+cx 163 279
+cx 165 279
+cx 168 279
+cx 171 279
+cx 172 279
+cx 174 279
+cx 176 279
+cx 179 279
+cx 180 279
+cx 182 279
+cx 183 279
+cx 184 279
+cx 185 279
+cx 188 279
+cx 189 279
+cx 190 279
+cx 191 279
+cx 192 279
+cx 198 279
+cx 201 279
+cx 203 279
+cx 204 279
+cx 206 279
+cx 208 279
+cx 209 279
+cx 214 279
+cx 216 279
+cx 217 279
+cx 220 279
+cx 222 279
+cx 223 279
+cx 225 279
+cx 226 279
+cx 227 279
+cx 228 279
+cx 229 279
+cx 230 279
+cx 231 279
+cx 232 279
+cx 233 279
+cx 236 279
+cx 238 279
+cx 239 279
+cx 241 279
+cx 245 279
+cx 246 279
+cx 248 279
+cx 250 279
+cx 251 279
+cx 252 279
+cx 254 279
+cx 255 279
+cx 256 279
+cx 258 279
+cx 260 279
+cx 261 279
+cx 263 279
+cx 264 279
+cx 266 279
+cx 267 279
+cx 268 279
+cx 269 279
+cx 270 279
+cx 272 279
+cx 274 279
+cx 275 279
+cx 277 279
+cx 278 279
+h 0
+h 1
+h 2
+h 3
+h 4
+h 5
+h 6
+h 7
+h 8
+h 9
+h 10
+h 11
+h 12
+h 13
+h 14
+h 15
+h 16
+h 17
+h 18
+h 19
+h 20
+h 21
+h 22
+h 23
+h 24
+h 25
+h 26
+h 27
+h 28
+h 29
+h 30
+h 31
+h 32
+h 33
+h 34
+h 35
+h 36
+h 37
+h 38
+h 39
+h 40
+h 41
+h 42
+h 43
+h 44
+h 45
+h 46
+h 47
+h 48
+h 49
+h 50
+h 51
+h 52
+h 53
+h 54
+h 55
+h 56
+h 57
+h 58
+h 59
+h 60
+h 61
+h 62
+h 63
+h 64
+h 65
+h 66
+h 67
+h 68
+h 69
+h 70
+h 71
+h 72
+h 73
+h 74
+h 75
+h 76
+h 77
+h 78
+h 79
+h 80
+h 81
+h 82
+h 83
+h 84
+h 85
+h 86
+h 87
+h 88
+h 89
+h 90
+h 91
+h 92
+h 93
+h 94
+h 95
+h 96
+h 97
+h 98
+h 99
+h 100
+h 101
+h 102
+h 103
+h 104
+h 105
+h 106
+h 107
+h 108
+h 109
+h 110
+h 111
+h 112
+h 113
+h 114
+h 115
+h 116
+h 117
+h 118
+h 119
+h 120
+h 121
+h 122
+h 123
+h 124
+h 125
+h 126
+h 127
+h 128
+h 129
+h 130
+h 131
+h 132
+h 133
+h 134
+h 135
+h 136
+h 137
+h 138
+h 139
+h 140
+h 141
+h 142
+h 143
+h 144
+h 145
+h 146
+h 147
+h 148
+h 149
+h 150
+h 151
+h 152
+h 153
+h 154
+h 155
+h 156
+h 157
+h 158
+h 159
+h 160
+h 161
+h 162
+h 163
+h 164
+h 165
+h 166
+h 167
+h 168
+h 169
+h 170
+h 171
+h 172
+h 173
+h 174
+h 175
+h 176
+h 177
+h 178
+h 179
+h 180
+h 181
+h 182
+h 183
+h 184
+h 185
+h 186
+h 187
+h 188
+h 189
+h 190
+h 191
+h 192
+h 193
+h 194
+h 195
+h 196
+h 197
+h 198
+h 199
+h 200
+h 201
+h 202
+h 203
+h 204
+h 205
+h 206
+h 207
+h 208
+h 209
+h 210
+h 211
+h 212
+h 213
+h 214
+h 215
+h 216
+h 217
+h 218
+h 219
+h 220
+h 221
+h 222
+h 223
+h 224
+h 225
+h 226
+h 227
+h 228
+h 229
+h 230
+h 231
+h 232
+h 233
+h 234
+h 235
+h 236
+h 237
+h 238
+h 239
+h 240
+h 241
+h 242
+h 243
+h 244
+h 245
+h 246
+h 247
+h 248
+h 249
+h 250
+h 251
+h 252
+h 253
+h 254
+h 255
+h 256
+h 257
+h 258
+h 259
+h 260
+h 261
+h 262
+h 263
+h 264
+h 265
+h 266
+h 267
+h 268
+h 269
+h 270
+h 271
+h 272
+h 273
+h 274
+h 275
+h 276
+h 277
+h 278
+measure 0
+measure 1
+measure 2
+measure 3
+measure 4
+measure 5
+measure 6
+measure 7
+measure 8
+measure 9
+measure 10
+measure 11
+measure 12
+measure 13
+measure 14
+measure 15
+measure 16
+measure 17
+measure 18
+measure 19
+measure 20
+measure 21
+measure 22
+measure 23
+measure 24
+measure 25
+measure 26
+measure 27
+measure 28
+measure 29
+measure 30
+measure 31
+measure 32
+measure 33
+measure 34
+measure 35
+measure 36
+measure 37
+measure 38
+measure 39
+measure 40
+measure 41
+measure 42
+measure 43
+measure 44
+measure 45
+measure 46
+measure 47
+measure 48
+measure 49
+measure 50
+measure 51
+measure 52
+measure 53
+measure 54
+measure 55
+measure 56
+measure 57
+measure 58
+measure 59
+measure 60
+measure 61
+measure 62
+measure 63
+measure 64
+measure 65
+measure 66
+measure 67
+measure 68
+measure 69
+measure 70
+measure 71
+measure 72
+measure 73
+measure 74
+measure 75
+measure 76
+measure 77
+measure 78
+measure 79
+measure 80
+measure 81
+measure 82
+measure 83
+measure 84
+measure 85
+measure 86
+measure 87
+measure 88
+measure 89
+measure 90
+measure 91
+measure 92
+measure 93
+measure 94
+measure 95
+measure 96
+measure 97
+measure 98
+measure 99
+measure 100
+measure 101
+measure 102
+measure 103
+measure 104
+measure 105
+measure 106
+measure 107
+measure 108
+measure 109
+measure 110
+measure 111
+measure 112
+measure 113
+measure 114
+measure 115
+measure 116
+measure 117
+measure 118
+measure 119
+measure 120
+measure 121
+measure 122
+measure 123
+measure 124
+measure 125
+measure 126
+measure 127
+measure 128
+measure 129
+measure 130
+measure 131
+measure 132
+measure 133
+measure 134
+measure 135
+measure 136
+measure 137
+measure 138
+measure 139
+measure 140
+measure 141
+measure 142
+measure 143
+measure 144
+measure 145
+measure 146
+measure 147
+measure 148
+measure 149
+measure 150
+measure 151
+measure 152
+measure 153
+measure 154
+measure 155
+measure 156
+measure 157
+measure 158
+measure 159
+measure 160
+measure 161
+measure 162
+measure 163
+measure 164
+measure 165
+measure 166
+measure 167
+measure 168
+measure 169
+measure 170
+measure 171
+measure 172
+measure 173
+measure 174
+measure 175
+measure 176
+measure 177
+measure 178
+measure 179
+measure 180
+measure 181
+measure 182
+measure 183
+measure 184
+measure 185
+measure 186
+measure 187
+measure 188
+measure 189
+measure 190
+measure 191
+measure 192
+measure 193
+measure 194
+measure 195
+measure 196
+measure 197
+measure 198
+measure 199
+measure 200
+measure 201
+measure 202
+measure 203
+measure 204
+measure 205
+measure 206
+measure 207
+measure 208
+measure 209
+measure 210
+measure 211
+measure 212
+measure 213
+measure 214
+measure 215
+measure 216
+measure 217
+measure 218
+measure 219
+measure 220
+measure 221
+measure 222
+measure 223
+measure 224
+measure 225
+measure 226
+measure 227
+measure 228
+measure 229
+measure 230
+measure 231
+measure 232
+measure 233
+measure 234
+measure 235
+measure 236
+measure 237
+measure 238
+measure 239
+measure 240
+measure 241
+measure 242
+measure 243
+measure 244
+measure 245
+measure 246
+measure 247
+measure 248
+measure 249
+measure 250
+measure 251
+measure 252
+measure 253
+measure 254
+measure 255
+measure 256
+measure 257
+measure 258
+measure 259
+measure 260
+measure 261
+measure 262
+measure 263
+measure 264
+measure 265
+measure 266
+measure 267
+measure 268
+measure 269
+measure 270
+measure 271
+measure 272
+measure 273
+measure 274
+measure 275
+measure 276
+measure 277
+measure 278

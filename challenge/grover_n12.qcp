@@ -1,0 +1,439 @@
+//v_0: 0, 1, 
+//v_1: 2, 3, 
+//v_2: 4, 5, 
+//v_3: 6, 7, 
+//edge: 8, 9, 10, 
+//res: 11, 
+12
+x 3
+h 4
+h 5
+h 6
+h 7
+x 8
+x 9
+x 10
+ry -pi/2 11
+cx 2 4
+cx 3 5
+x 4
+x 5
+h 8
+cx 5 8
+rz -pi/4 8
+cx 4 8
+rz pi/4 8
+cx 5 8
+rz -pi/4 8
+cx 4 8
+rz pi/4 5
+rz pi/4 8
+cx 4 5
+h 8
+rz pi/4 4
+rz -pi/4 5
+cx 4 5
+x 4
+cx 2 4
+cx 4 6
+x 5
+cx 3 5
+cx 5 7
+x 6
+x 7
+h 9
+cx 7 9
+rz -pi/4 9
+cx 6 9
+rz pi/4 9
+cx 7 9
+rz -pi/4 9
+cx 6 9
+rz pi/4 7
+rz pi/4 9
+cx 6 7
+h 9
+rz pi/4 6
+rz -pi/4 7
+cx 6 7
+x 6
+cx 4 6
+cx 0 6
+x 6
+x 7
+cx 5 7
+cx 1 7
+x 7
+h 10
+cx 7 10
+rz -pi/4 10
+cx 6 10
+rz pi/4 10
+cx 7 10
+rz -pi/4 10
+cx 6 10
+rz pi/4 7
+rz pi/4 10
+cx 6 7
+h 10
+rz pi/4 6
+rz -pi/4 7
+cx 6 7
+x 6
+cx 0 6
+x 7
+cx 1 7
+h 11
+rz pi/8 11
+rz pi/8 8
+rz pi/8 9
+cx 8 9
+rz -pi/8 9
+cx 8 9
+rz pi/8 10
+cx 9 10
+rz -pi/8 10
+cx 8 10
+rz pi/8 10
+cx 9 10
+rz -pi/8 10
+cx 8 10
+cx 10 11
+rz -pi/8 11
+cx 9 11
+rz pi/8 11
+cx 10 11
+rz -pi/8 11
+cx 8 11
+rz pi/8 11
+cx 10 11
+rz -pi/8 11
+cx 9 11
+rz pi/8 11
+cx 10 11
+rz -pi/8 11
+cx 8 11
+h 11
+cx 2 4
+cx 3 5
+x 4
+x 5
+h 8
+cx 5 8
+rz -pi/4 8
+cx 4 8
+rz pi/4 8
+cx 5 8
+rz -pi/4 8
+cx 4 8
+rz pi/4 5
+rz pi/4 8
+cx 4 5
+h 8
+rz pi/4 4
+rz -pi/4 5
+cx 4 5
+x 4
+cx 2 4
+cx 4 6
+x 5
+cx 3 5
+cx 5 7
+x 6
+x 7
+h 9
+cx 7 9
+rz -pi/4 9
+cx 6 9
+rz pi/4 9
+cx 7 9
+rz -pi/4 9
+cx 6 9
+rz pi/4 7
+rz pi/4 9
+cx 6 7
+h 9
+rz pi/4 6
+rz -pi/4 7
+cx 6 7
+x 6
+cx 4 6
+cx 0 6
+x 6
+x 7
+cx 5 7
+cx 1 7
+x 7
+h 10
+cx 7 10
+rz -pi/4 10
+cx 6 10
+rz pi/4 10
+cx 7 10
+rz -pi/4 10
+cx 6 10
+rz pi/4 7
+rz pi/4 10
+cx 6 7
+h 10
+rz pi/4 6
+rz -pi/4 7
+cx 6 7
+x 6
+cx 0 6
+x 7
+cx 1 7
+ry pi/2 4
+ry pi/2 5
+ry pi/2 6
+ry pi/2 7
+rz pi/8 4
+rz pi/8 5
+cx 4 5
+rz -pi/8 5
+cx 4 5
+rz pi/8 6
+cx 5 6
+rz -pi/8 6
+cx 4 6
+rz pi/8 6
+cx 5 6
+rz -pi/8 6
+cx 4 6
+rz pi/8 7
+cx 6 7
+rz -pi/8 7
+cx 5 7
+rz pi/8 7
+cx 6 7
+rz -pi/8 7
+cx 4 7
+rz pi/8 7
+cx 6 7
+rz -pi/8 7
+cx 5 7
+rz pi/8 7
+cx 6 7
+rz -pi/8 7
+cx 4 7
+h 7
+ry -pi/2 4
+ry -pi/2 5
+ry -pi/2 6
+rz -pi 7
+cx 2 4
+cx 3 5
+x 4
+x 5
+h 8
+cx 5 8
+rz -pi/4 8
+cx 4 8
+rz pi/4 8
+cx 5 8
+rz -pi/4 8
+cx 4 8
+rz pi/4 5
+rz pi/4 8
+cx 4 5
+h 8
+rz pi/4 4
+rz -pi/4 5
+cx 4 5
+x 4
+cx 2 4
+cx 4 6
+x 5
+cx 3 5
+cx 5 7
+x 6
+x 7
+h 9
+cx 7 9
+rz -pi/4 9
+cx 6 9
+rz pi/4 9
+cx 7 9
+rz -pi/4 9
+cx 6 9
+rz pi/4 7
+rz pi/4 9
+cx 6 7
+h 9
+rz pi/4 6
+rz -pi/4 7
+cx 6 7
+x 6
+cx 4 6
+cx 0 6
+x 6
+x 7
+cx 5 7
+cx 1 7
+x 7
+h 10
+cx 7 10
+rz -pi/4 10
+cx 6 10
+rz pi/4 10
+cx 7 10
+rz -pi/4 10
+cx 6 10
+rz pi/4 7
+rz pi/4 10
+cx 6 7
+h 10
+rz pi/4 6
+rz -pi/4 7
+cx 6 7
+x 6
+cx 0 6
+x 7
+cx 1 7
+h 11
+rz pi/8 11
+rz pi/8 8
+rz pi/8 9
+cx 8 9
+rz -pi/8 9
+cx 8 9
+rz pi/8 10
+cx 9 10
+rz -pi/8 10
+cx 8 10
+rz pi/8 10
+cx 9 10
+rz -pi/8 10
+cx 8 10
+cx 10 11
+rz -pi/8 11
+cx 9 11
+rz pi/8 11
+cx 10 11
+rz -pi/8 11
+cx 8 11
+rz pi/8 11
+cx 10 11
+rz -pi/8 11
+cx 9 11
+rz pi/8 11
+cx 10 11
+rz -pi/8 11
+cx 8 11
+h 11
+cx 2 4
+cx 3 5
+x 4
+x 5
+h 8
+cx 5 8
+rz -pi/4 8
+cx 4 8
+rz pi/4 8
+cx 5 8
+rz -pi/4 8
+cx 4 8
+rz pi/4 5
+rz pi/4 8
+cx 4 5
+h 8
+rz pi/4 4
+rz -pi/4 5
+cx 4 5
+x 4
+cx 2 4
+cx 4 6
+x 5
+cx 3 5
+cx 5 7
+x 6
+x 7
+h 9
+cx 7 9
+rz -pi/4 9
+cx 6 9
+rz pi/4 9
+cx 7 9
+rz -pi/4 9
+cx 6 9
+rz pi/4 7
+rz pi/4 9
+cx 6 7
+h 9
+rz pi/4 6
+rz -pi/4 7
+cx 6 7
+x 6
+cx 4 6
+cx 0 6
+x 6
+x 7
+cx 5 7
+cx 1 7
+x 7
+h 10
+cx 7 10
+rz -pi/4 10
+cx 6 10
+rz pi/4 10
+cx 7 10
+rz -pi/4 10
+cx 6 10
+rz pi/4 7
+rz pi/4 10
+cx 6 7
+h 10
+rz pi/4 6
+rz -pi/4 7
+cx 6 7
+x 6
+cx 0 6
+x 7
+cx 1 7
+ry pi/2 4
+ry pi/2 5
+ry pi/2 6
+ry pi/2 7
+rz pi/8 4
+rz pi/8 5
+cx 4 5
+rz -pi/8 5
+cx 4 5
+rz pi/8 6
+cx 5 6
+rz -pi/8 6
+cx 4 6
+rz pi/8 6
+cx 5 6
+rz -pi/8 6
+cx 4 6
+rz pi/8 7
+cx 6 7
+rz -pi/8 7
+cx 5 7
+rz pi/8 7
+cx 6 7
+rz -pi/8 7
+cx 4 7
+rz pi/8 7
+cx 6 7
+rz -pi/8 7
+cx 5 7
+rz pi/8 7
+cx 6 7
+rz -pi/8 7
+cx 4 7
+h 7
+ry -pi/2 4
+ry -pi/2 5
+ry -pi/2 6
+rz -pi 7
+h 11
+measure 0
+measure 1
+measure 2
+measure 3
+measure 4
+measure 5
+measure 6
+measure 7
